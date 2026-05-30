@@ -7,9 +7,9 @@ toc: false
 ```{=html}
 <div class="hero">
   <p class="hero-eyebrow">C3L · Adelaide University · 2026</p>
-  <h1>The Adelaide<br>School</h1>
+  <p class="hero-title-main">The Adelaide School</p>
+  <p class="hero-title-sub">of Learning Sciences, Data &amp; AI</p>
   <hr class="hero-rule">
-  <p class="hero-sub">Learning Sciences, Data &amp; AI</p>
   <p class="hero-tag">Two days &nbsp;·&nbsp; Twelve sessions &nbsp;·&nbsp; One community built to last</p>
   <a class="hero-btn" href="program.html">View Program</a>
 </div>
