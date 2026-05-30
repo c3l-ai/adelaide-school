@@ -272,3 +272,90 @@ h1, h2, h3, h4 {
 
 a { color: #836BFF; }
 a:hover { color: #140F50; }
+
+/* Hero eyebrow and tag - larger */
+.hero-eyebrow {
+  font-size: 1rem !important;
+  letter-spacing: 0.12em !important;
+  color: rgba(255,255,255,0.85) !important;
+}
+.hero-tag {
+  font-size: 1.05rem !important;
+  letter-spacing: 0.1em !important;
+  color: rgba(255,255,255,0.8) !important;
+}
+
+/* Program tabs */
+.day-tabs {
+  display: flex;
+  gap: 0;
+  margin-bottom: 2rem;
+  border-bottom: 2px solid #836BFF;
+}
+.day-tab {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 0.75rem 2rem;
+  cursor: pointer;
+  background: #F8EFE0;
+  color: #140F50;
+  border: none;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -2px;
+  transition: all 0.15s;
+}
+.day-tab.active {
+  background: #fff;
+  color: #836BFF;
+  border-bottom: 3px solid #836BFF;
+}
+.day-tab:hover:not(.active) { background: #ede8df; }
+.day-content { display: none; }
+.day-content.active { display: block; }
+
+/* Time badge larger on program page */
+.time-badge {
+  font-size: 0.9rem !important;
+  letter-spacing: 0.08em !important;
+}
+
+/* Sessions at a glance table */
+.glance-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 3rem;
+  font-family: 'Roboto Serif', serif;
+}
+.glance-table th {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #836BFF;
+  font-weight: 700;
+  padding: 0.6rem 1rem;
+  border-bottom: 2px solid #836BFF;
+  text-align: left;
+}
+.glance-table td {
+  padding: 0.75rem 1rem;
+  border-bottom: 0.5px solid #e0ddd8;
+  font-size: 0.875rem;
+  color: #140F50;
+  vertical-align: top;
+}
+.glance-table tr:hover td { background: #F8EFE0; }
+.glance-track {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0;
+}
+.glance-track.ai { background: #1448FF; color: #fff; }
+.glance-track.ls { background: #836BFF; color: #fff; }

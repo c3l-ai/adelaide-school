@@ -2,13 +2,16 @@
 title: "Program"
 ---
 
-Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
+Two days. Mornings are shared — everyone in the same room. Each day features a single extended workshop block where participants stay with the same session for three hours, going deeper than a standard 90-minute slot allows. Each day closes with something that makes the learning stick.
 
----
+```{=html}
+<div class="day-tabs">
+  <button class="day-tab active" onclick="showDay('day1', this)">Day One</button>
+  <button class="day-tab" onclick="showDay('day2', this)">Day Two</button>
+</div>
 
-::: {.day-header}
-Day One
-:::
+<div id="day1" class="day-content active">
+```
 
 ::: {.card-session}
 ::: {.time-badge}
@@ -35,36 +38,27 @@ This session belongs to you. We open the floor to hear directly from participant
 
 ::: {.card-session}
 ::: {.time-badge}
-11:00 – 12:30
+11:00 – 2:00 (incl. lunch)
 :::
-### Breakout Sessions I
-Choose one of our parallel sessions and go deep. Each 90-minute session is designed to be hands-on, conversational, and directly applicable to your work.
+### Workshop Sessions
+Choose one of our parallel sessions and go deep. Each session runs for three hours — with a break for lunch built in — giving you real time to work with the material, ask questions, and connect with others in the room.
 
 → [See all sessions](sessions.html)
 :::
 
 ::: {.card-session}
 ::: {.time-badge}
-12:30 – 2:00
-:::
-### Lunch
-:::
-
-::: {.card-session}
-::: {.time-badge}
-2:00 – 3:30
-:::
-### Breakout Sessions II
-A second round of parallel sessions — a different theme, a different room, another chance to build skills and connect with people working on similar problems.
-
-→ [See all sessions](sessions.html)
-:::
-
-::: {.card-session}
-::: {.time-badge}
-3:30 – 4:00
+2:00 – 2:30
 :::
 ### Afternoon Break
+:::
+
+::: {.card-session}
+::: {.time-badge}
+2:30 – 4:00
+:::
+### Workshop Sessions (continued)
+Remaining time with your workshop group to consolidate, discuss, and work on applying what you've covered.
 :::
 
 ::: {.card-session}
@@ -75,11 +69,11 @@ A second round of parallel sessions — a different theme, a different room, ano
 Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.
 :::
 
----
+```{=html}
+</div>
 
-::: {.day-header}
-Day Two
-:::
+<div id="day2" class="day-content">
+```
 
 ::: {.card-session}
 ::: {.time-badge}
@@ -143,3 +137,16 @@ Bring a half-formed idea — a grant concept, a research design, a school partne
 ### Closing: What We're Building Together
 We close not with a summary but with a commitment. What collaborations are forming? What follow-up do we need? Participants share intentions, facilitators map connection points, and we sketch what comes next for this community.
 :::
+
+```{=html}
+</div>
+
+<script>
+function showDay(id, btn) {
+  document.querySelectorAll('.day-content').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.day-tab').forEach(el => el.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+  btn.classList.add('active');
+}
+</script>
+```

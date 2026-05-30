@@ -6,7 +6,7 @@ toc: false
 
 ```{=html}
 <div class="hero">
-  <p class="hero-eyebrow">C3L · Adelaide University · 2026</p>
+  <p class="hero-eyebrow">C3L &nbsp;·&nbsp; Adelaide University &nbsp;·&nbsp; 2026</p>
   <p class="hero-title-main">The Adelaide School</p>
   <p class="hero-title-sub">of Learning Sciences, Data &amp; AI</p>
   <hr class="hero-rule">
@@ -36,10 +36,10 @@ toc: false
   <div class="who-inner">
     <h2>Who is it for?</h2>
     <ul class="who-list">
-      <li>Early and mid-career researchers in education, learning sciences, psychology, and adjacent fields</li>
+      <li>Higher Degree by Research (HDR) students looking to build skills in methods, AI tools, and grant strategy</li>
+      <li>Early Career Researchers (ECRs) in education, learning sciences, psychology, and adjacent fields</li>
+      <li>Mid-Career Researchers (MCRs) seeking new collaborations and methodological directions</li>
       <li>Practitioners working with data in school, university, or workplace learning contexts</li>
-      <li>Research students looking to build skills in methods, AI tools, and grant strategy</li>
-      <li>Anyone curious about what learning sciences and AI can do together</li>
     </ul>
   </div>
 </div>
@@ -47,7 +47,7 @@ toc: false
 <div class="info-strip">
   <div class="info-item">
     <span class="info-label">When</span>
-    <span class="info-val">TBC 2026</span>
+    <span class="info-val">November 2026</span>
   </div>
   <div class="info-sep"></div>
   <div class="info-item">

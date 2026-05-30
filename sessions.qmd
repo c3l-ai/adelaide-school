@@ -1,11 +1,87 @@
 ---
 title: "Sessions"
-subtitle: "Twelve parallel sessions across two tracks."
+subtitle: "Twelve sessions across two tracks."
 ---
 
-Parallel sessions run across two blocks on Day One. Each session runs for 90 minutes and is designed to be hands-on and participatory — not a lecture. Choose based on where you want to go deeper.
+All sessions run on Day One as extended three-hour workshops. Choose one in the morning and stay with it — the format is designed for depth, not breadth. Day Two's Open Gallery lets you visit any session you missed.
 
-Sessions are grouped into two tracks, though the boundaries are deliberately porous. Many of the best conversations happen when someone from the learning sciences track wanders into an AI tools session, and vice versa.
+---
+
+## Sessions at a glance
+
+```{=html}
+<table class="glance-table">
+  <thead>
+    <tr>
+      <th>Session</th>
+      <th>Delivered by</th>
+      <th>Track</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Build Your Own AI Research Assistant</td>
+      <td>Daniel</td>
+      <td><span class="glance-track ai">AI & Tools</span></td>
+    </tr>
+    <tr>
+      <td>Deploy Your AI Agent: From Prototype to Practice</td>
+      <td>Vita</td>
+      <td><span class="glance-track ai">AI & Tools</span></td>
+    </tr>
+    <tr>
+      <td>Evaluating AI Agents: How Do You Know It's Working?</td>
+      <td>Srecko</td>
+      <td><span class="glance-track ai">AI & Tools</span></td>
+    </tr>
+    <tr>
+      <td>Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous</td>
+      <td>Ryan & Linxuan</td>
+      <td><span class="glance-track ai">AI & Tools</span></td>
+    </tr>
+    <tr>
+      <td>The State of Qualitative Research: Perspectives from CRESI</td>
+      <td>CRESI</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Multimodal Data in the Classroom: What to Capture and Why</td>
+      <td>Andrew</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Leading in Academia: Building Partnerships with Schools and Government</td>
+      <td>Maria, Bec & Shane</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Tracing Self-Regulation: Analysing Process Data in Learning Research</td>
+      <td>Flora</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Designing Your Research Instrument: From Construct to Question</td>
+      <td>Phuong & Oscar</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</td>
+      <td>Flo & Abhinava</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</td>
+      <td>TBC</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+    <tr>
+      <td>Mixed-Effects Modelling for Education Researchers: A Practical Introduction</td>
+      <td>TBC</td>
+      <td><span class="glance-track ls">Learning Sciences</span></td>
+    </tr>
+  </tbody>
+</table>
+```
 
 ---
 
