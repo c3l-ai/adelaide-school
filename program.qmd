@@ -1,161 +1,165 @@
 ---
 title: "Program"
+toc: false
 ---
 
-Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
-
 ```{=html}
-<div class="day-switcher">
-  <button class="day-btn active" onclick="showDay('day1', this)">Day One</button>
-  <button class="day-btn" onclick="showDay('day2', this)">Day Two</button>
+<div class="program-intro">
+  Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
 </div>
 
-<div id="day1" class="day-content active">
-```
+<!-- DAY ONE -->
+<div class="prog-day">
+  <div class="prog-day-label">
+    <div class="prog-day-number">01</div>
+    <div class="prog-day-name">Day One</div>
+  </div>
+  <div class="prog-day-sessions">
 
-::: {.card-session}
-::: {.time-badge}
-8:30 – 9:00
-:::
-### Arrival & Registration
-Pick up your name badge, grab a coffee, and connect with fellow participants before we begin.
-:::
+    <div class="prog-item type-admin">
+      <div class="prog-time">8:30 – 9:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Arrival &amp; Registration</div>
+        <div class="prog-desc">Pick up your name badge, grab a coffee, and connect with fellow participants before we begin.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-9:00 – 10:30
-:::
-### Opening: Field Signals — What's Working, What's Broken, What's Next
-This session belongs to you. We open the floor to hear directly from participants — what challenges are you navigating in your research, teaching, or practice? What seems to be working in your context, and what isn't? Your input shapes the conversations we have over the next two days.
-:::
+    <div class="prog-item type-plenary">
+      <div class="prog-time">9:00 – 10:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Opening</div>
+        <div class="prog-title">Field Signals — What's Working, What's Broken, What's Next</div>
+        <div class="prog-desc">This session belongs to you. We open the floor to hear directly from participants — what challenges are you navigating in your research, teaching, or practice? What seems to be working in your context, and what isn't? Your input shapes the conversations we have over the next two days.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-10:30 – 11:00
-:::
-### Morning Break
-:::
+    <div class="prog-item type-break">
+      <div class="prog-time">10:30 – 11:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Morning Break</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-11:00 – 12:30
-:::
-### Breakout Sessions — Part I
-Choose one of our parallel sessions and go deep. Each 90-minute session is designed to be hands-on, conversational, and directly applicable to your work. You will stay with the same session for Part II after lunch.
+    <div class="prog-item type-breakout">
+      <div class="prog-time">11:00 – 12:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Breakout — Part I</div>
+        <div class="prog-title">Workshop Sessions</div>
+        <div class="prog-desc">Choose one of our parallel sessions and go deep. Each 90-minute block is designed to be hands-on, conversational, and directly applicable to your work. You will stay with the same session for Part II after lunch.</div>
+        <a class="prog-link" href="sessions.html">See all sessions →</a>
+      </div>
+    </div>
 
-→ [See all sessions](sessions.html)
-:::
+    <div class="prog-item type-break">
+      <div class="prog-time">12:30 – 2:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Lunch</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-12:30 – 2:00
-:::
-### Lunch
-:::
+    <div class="prog-item type-breakout">
+      <div class="prog-time">2:00 – 3:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Breakout — Part II</div>
+        <div class="prog-title">Workshop Sessions (continued)</div>
+        <div class="prog-desc">A second 90-minute block with the same session and speakers. Go deeper, work through your questions, and consolidate what you've covered in the morning.</div>
+        <a class="prog-link" href="sessions.html">See all sessions →</a>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-2:00 – 3:30
-:::
-### Breakout Sessions — Part II
-A second 90-minute block with the same session and speakers. Go deeper, work through questions, and consolidate what you've covered.
+    <div class="prog-item type-break">
+      <div class="prog-time">3:30 – 4:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Afternoon Break</div>
+      </div>
+    </div>
 
-→ [See all sessions](sessions.html)
-:::
+    <div class="prog-item type-closing">
+      <div class="prog-time">4:00 – 6:00</div>
+      <div class="prog-body">
+        <div class="prog-tag">Showcase</div>
+        <div class="prog-title">Share Your Work, Meet Your Collaborators</div>
+        <div class="prog-desc">Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-3:30 – 4:00
-:::
-### Afternoon Break
-:::
-
-::: {.card-session}
-::: {.time-badge}
-4:00 – 6:00
-:::
-### Showcase & Connect: Share Your Work, Meet Your Collaborators
-Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.
-:::
-
-```{=html}
+  </div>
 </div>
 
-<div id="day2" class="day-content">
-```
+<!-- DAY TWO -->
+<div class="prog-day">
+  <div class="prog-day-label">
+    <div class="prog-day-number">02</div>
+    <div class="prog-day-name">Day Two</div>
+  </div>
+  <div class="prog-day-sessions">
 
-::: {.card-session}
-::: {.time-badge}
-8:30 – 9:00
-:::
-### Arrival & Registration
-Welcome back. Coffee is on.
-:::
+    <div class="prog-item type-admin">
+      <div class="prog-time">8:30 – 9:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Arrival &amp; Registration</div>
+        <div class="prog-desc">Welcome back. Coffee is on.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-9:00 – 10:30
-:::
-### Making Sense of Day One — and Navigating the Funding Landscape
-*with Peter Goodyear*
+    <div class="prog-item type-plenary">
+      <div class="prog-time">9:00 – 10:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Plenary</div>
+        <div class="prog-title">Making Sense of Day One — and Navigating the Funding Landscape</div>
+        <div class="prog-desc">We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? Peter Goodyear joins us to share hard-won insight into the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.</div>
+        <div class="prog-speaker">with Peter Goodyear</div>
+      </div>
+    </div>
 
-We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? Peter Goodyear joins us to share hard-won insight into the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.
-:::
+    <div class="prog-item type-break">
+      <div class="prog-time">10:30 – 11:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Morning Break</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-10:30 – 11:00
-:::
-### Morning Break
-:::
+    <div class="prog-item type-plenary">
+      <div class="prog-time">11:00 – 12:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Open Gallery</div>
+        <div class="prog-title">Revisit, Explore, and Go Deeper</div>
+        <div class="prog-desc">Yesterday's sessions don't disappear — they come back as a gallery. Each presenter sets up a brief station where you can get a rapid overview of what was covered, ask the questions you didn't get to ask, and make the connections you missed. Move freely, stay as long as you like at each stop.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-11:00 – 12:30
-:::
-### Open Gallery
-Yesterday's sessions don't disappear — they come back as a gallery. Each presenter sets up a brief station where you can get a rapid overview of what was covered, ask the questions you didn't get to ask, and make the connections you missed. Move freely, stay as long as you like at each stop.
-:::
+    <div class="prog-item type-break">
+      <div class="prog-time">12:30 – 2:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Lunch</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-12:30 – 2:00
-:::
-### Lunch
-:::
+    <div class="prog-item type-plenary">
+      <div class="prog-time">2:00 – 3:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Research Clinic</div>
+        <div class="prog-title">Design Your Next Move</div>
+        <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-2:00 – 3:30
-:::
-### Research Clinic: Design Your Next Move
-Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.
-:::
+    <div class="prog-item type-break">
+      <div class="prog-time">3:30 – 4:00</div>
+      <div class="prog-body">
+        <div class="prog-title">Afternoon Break</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-3:30 – 4:00
-:::
-### Afternoon Break
-:::
+    <div class="prog-item type-closing">
+      <div class="prog-time">4:00 – 5:00</div>
+      <div class="prog-body">
+        <div class="prog-tag">Closing</div>
+        <div class="prog-title">What We're Building Together</div>
+        <div class="prog-desc">We close not with a summary but with a commitment. What collaborations are forming? What follow-up do we need? Participants share intentions, facilitators map connection points, and we sketch what comes next for this community.</div>
+      </div>
+    </div>
 
-::: {.card-session}
-::: {.time-badge}
-4:00 – 5:00
-:::
-### Closing: What We're Building Together
-We close not with a summary but with a commitment. What collaborations are forming? What follow-up do we need? Participants share intentions, facilitators map connection points, and we sketch what comes next for this community.
-:::
-
-```{=html}
+  </div>
 </div>
-
-<script>
-function showDay(id, btn) {
-  document.querySelectorAll('.day-content').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.day-btn').forEach(el => el.classList.remove('active'));
-  document.getElementById(id).classList.add('active');
-  btn.classList.add('active');
-}
-</script>
 ```
