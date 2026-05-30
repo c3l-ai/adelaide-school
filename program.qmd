@@ -24,12 +24,20 @@ toc: false
       </div>
     </div>
 
-    <div class="prog-item type-plenary">
-      <div class="prog-time">9:00 – 10:30</div>
+    <div class="prog-item type-admin">
+      <div class="prog-time">9:00 – 9:30</div>
       <div class="prog-body">
-        <div class="prog-tag">Opening</div>
+        <div class="prog-title">Welcome &amp; Opening</div>
+        <div class="prog-desc">Formal welcome from C3L, housekeeping, and an overview of how the two days are structured.</div>
+      </div>
+    </div>
+
+    <div class="prog-item type-plenary">
+      <div class="prog-time">9:30 – 10:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Facilitated Session</div>
         <div class="prog-title">Field Signals — What's Working, What's Broken, What's Next</div>
-        <div class="prog-desc">This session belongs to you. We open the floor to hear directly from participants — what challenges are you navigating in your research, teaching, or practice? What seems to be working in your context, and what isn't? Your input shapes the conversations we have over the next two days.</div>
+        <div class="prog-desc">A structured, facilitated conversation designed to surface what's actually on participants' minds. We use targeted prompts to draw out the challenges you're navigating, the approaches that seem to be working, and the questions you haven't been able to answer yet. This isn't a panel — everyone contributes. What emerges directly shapes the conversations across the rest of the two days.</div>
       </div>
     </div>
 
