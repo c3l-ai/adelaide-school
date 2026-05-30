@@ -1,86 +1,79 @@
 ---
 title: "Sessions"
-subtitle: "Twelve sessions across two tracks."
 ---
 
-All sessions run on Day One as extended three-hour workshops. Choose one in the morning and stay with it — the format is designed for depth, not breadth. Day Two's Open Gallery lets you visit any session you missed.
+All sessions run on Day One as extended three-hour workshops across two blocks. Choose one and stay with it — the format is designed for depth. Day Two's Open Gallery lets you revisit any session you missed.
 
 ---
 
 ## Sessions at a glance
 
 ```{=html}
-<table class="glance-table">
-  <thead>
-    <tr>
-      <th>Session</th>
-      <th>Delivered by</th>
-      <th>Track</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Build Your Own AI Research Assistant</td>
-      <td>Daniel</td>
-      <td><span class="glance-track ai">AI & Tools</span></td>
-    </tr>
-    <tr>
-      <td>Deploy Your AI Agent: From Prototype to Practice</td>
-      <td>Vita</td>
-      <td><span class="glance-track ai">AI & Tools</span></td>
-    </tr>
-    <tr>
-      <td>Evaluating AI Agents: How Do You Know It's Working?</td>
-      <td>Srecko</td>
-      <td><span class="glance-track ai">AI & Tools</span></td>
-    </tr>
-    <tr>
-      <td>Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous</td>
-      <td>Ryan & Linxuan</td>
-      <td><span class="glance-track ai">AI & Tools</span></td>
-    </tr>
-    <tr>
-      <td>The State of Qualitative Research: Perspectives from CRESI</td>
-      <td>CRESI</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Multimodal Data in the Classroom: What to Capture and Why</td>
-      <td>Andrew</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Leading in Academia: Building Partnerships with Schools and Government</td>
-      <td>Maria, Bec & Shane</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Tracing Self-Regulation: Analysing Process Data in Learning Research</td>
-      <td>Flora</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Designing Your Research Instrument: From Construct to Question</td>
-      <td>Phuong & Oscar</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</td>
-      <td>Flo & Abhinava</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</td>
-      <td>TBC</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-    <tr>
-      <td>Mixed-Effects Modelling for Education Researchers: A Practical Introduction</td>
-      <td>TBC</td>
-      <td><span class="glance-track ls">Learning Sciences</span></td>
-    </tr>
-  </tbody>
-</table>
+<div class="glance-grid">
+
+  <div class="glance-track-col">
+    <div class="glance-track-header ai">
+      <span class="glance-track-icon">⚙</span>
+      AI &amp; Tools
+    </div>
+    <a class="glance-card ai" href="#build-your-own-ai-research-assistant">
+      <div class="glance-card-title">Build Your Own AI Research Assistant</div>
+      <div class="glance-card-presenter">Daniel</div>
+    </a>
+    <a class="glance-card ai" href="#deploy-your-ai-agent-from-prototype-to-practice">
+      <div class="glance-card-title">Deploy Your AI Agent: From Prototype to Practice</div>
+      <div class="glance-card-presenter">Vita</div>
+    </a>
+    <a class="glance-card ai" href="#evaluating-ai-agents-how-do-you-know-its-working">
+      <div class="glance-card-title">Evaluating AI Agents: How Do You Know It's Working?</div>
+      <div class="glance-card-presenter">Srecko</div>
+    </a>
+    <a class="glance-card ai" href="#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">
+      <div class="glance-card-title">Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous</div>
+      <div class="glance-card-presenter">Ryan &amp; Linxuan</div>
+    </a>
+  </div>
+
+  <div class="glance-track-col">
+    <div class="glance-track-header ls">
+      <span class="glance-track-icon">◈</span>
+      Learning Sciences, Data &amp; Methods
+    </div>
+    <a class="glance-card ls" href="#the-state-of-qualitative-research-perspectives-from-cresi">
+      <div class="glance-card-title">The State of Qualitative Research: Perspectives from CRESI</div>
+      <div class="glance-card-presenter">CRESI</div>
+    </a>
+    <a class="glance-card ls" href="#multimodal-data-in-the-classroom-what-to-capture-and-why">
+      <div class="glance-card-title">Multimodal Data in the Classroom: What to Capture and Why</div>
+      <div class="glance-card-presenter">Andrew</div>
+    </a>
+    <a class="glance-card ls" href="#leading-in-academia-building-partnerships-with-schools-and-government">
+      <div class="glance-card-title">Leading in Academia: Building Partnerships with Schools and Government</div>
+      <div class="glance-card-presenter">Maria, Bec &amp; Shane</div>
+    </a>
+    <a class="glance-card ls" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
+      <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
+      <div class="glance-card-presenter">Flora</div>
+    </a>
+    <a class="glance-card ls" href="#designing-your-research-instrument-from-construct-to-question">
+      <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
+      <div class="glance-card-presenter">Phuong &amp; Oscar</div>
+    </a>
+    <a class="glance-card ls" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
+      <div class="glance-card-title">What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</div>
+      <div class="glance-card-presenter">Flo &amp; Abhinava</div>
+    </a>
+    <a class="glance-card ls" href="#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">
+      <div class="glance-card-title">Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</div>
+      <div class="glance-card-presenter">TBC</div>
+    </a>
+    <a class="glance-card ls" href="#mixed-effects-modelling-for-education-researchers-a-practical-introduction">
+      <div class="glance-card-title">Mixed-Effects Modelling for Education Researchers: A Practical Introduction</div>
+      <div class="glance-card-presenter">TBC</div>
+    </a>
+  </div>
+
+</div>
 ```
 
 ---
@@ -121,7 +114,7 @@ AI tools are changing how qualitative researchers work with data — but not alw
 
 ## Learning Sciences, Data & Methods Track
 
-Sessions in this track are substantive and research-facing. They address conceptual and methodological questions that sit at the heart of learning sciences and educational research.
+Sessions in this track are substantive and research-facing. They address conceptual and methodological questions at the heart of learning sciences and educational research.
 
 ::: {.card-session .track-ls}
 ### The State of Qualitative Research: Perspectives from CRESI

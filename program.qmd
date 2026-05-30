@@ -5,9 +5,9 @@ title: "Program"
 Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
 
 ```{=html}
-<div class="day-tabs">
-  <button class="day-tab active" onclick="showDay('day1', this)">Day One</button>
-  <button class="day-tab" onclick="showDay('day2', this)">Day Two</button>
+<div class="day-switcher">
+  <button class="day-btn active" onclick="showDay('day1', this)">Day One</button>
+  <button class="day-btn" onclick="showDay('day2', this)">Day Two</button>
 </div>
 
 <div id="day1" class="day-content active">
@@ -153,7 +153,7 @@ We close not with a summary but with a commitment. What collaborations are formi
 <script>
 function showDay(id, btn) {
   document.querySelectorAll('.day-content').forEach(el => el.classList.remove('active'));
-  document.querySelectorAll('.day-tab').forEach(el => el.classList.remove('active'));
+  document.querySelectorAll('.day-btn').forEach(el => el.classList.remove('active'));
   document.getElementById(id).classList.add('active');
   btn.classList.add('active');
 }
