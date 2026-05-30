@@ -4,38 +4,61 @@ page-layout: full
 toc: false
 ---
 
-::: {.hero}
-# The Adelaide School
-## Learning Sciences, Data & AI
+```{=html}
+<div class="hero">
+  <p class="hero-eyebrow">C3L · Adelaide University · 2026</p>
+  <h1>The Adelaide<br>School</h1>
+  <hr class="hero-rule">
+  <p class="hero-sub">Learning Sciences, Data &amp; AI</p>
+  <p class="hero-tag">Two days &nbsp;·&nbsp; Twelve sessions &nbsp;·&nbsp; One community built to last</p>
+  <a class="hero-btn" href="program.html">View Program</a>
+</div>
 
-An intensive two-day forum for researchers, educators, and practitioners working at the intersection of learning, data, and artificial intelligence.
+<div class="pillars">
+  <div class="pillar">
+    <div class="pillar-label">Learn</div>
+    <h3>New methods &amp; tools</h3>
+    <p>Hands-on sessions across AI tools, statistical modelling, multimodal data, and qualitative methods.</p>
+  </div>
+  <div class="pillar">
+    <div class="pillar-label">Share</div>
+    <h3>Your work in progress</h3>
+    <p>Bring a slide, a prototype, or a half-formed idea. The Showcase gives everyone a stage.</p>
+  </div>
+  <div class="pillar">
+    <div class="pillar-label">Build</div>
+    <h3>Lasting collaborations</h3>
+    <p>The Research Clinic and Open Gallery are designed to turn conversations into concrete next steps.</p>
+  </div>
+</div>
 
-::: {.badge-date}
-Coming 2026 · Adelaide University
-:::
-:::
+<div class="who-section">
+  <div class="who-inner">
+    <h2>Who is it for?</h2>
+    <ul class="who-list">
+      <li>Early and mid-career researchers in education, learning sciences, psychology, and adjacent fields</li>
+      <li>Practitioners working with data in school, university, or workplace learning contexts</li>
+      <li>Research students looking to build skills in methods, AI tools, and grant strategy</li>
+      <li>Anyone curious about what learning sciences and AI can do together</li>
+    </ul>
+  </div>
+</div>
 
-## What is The Adelaide School?
-
-The Adelaide School is a two-day intensive event hosted by the [Centre for Change and Complexity in Learning (C3L)](https://c3l.edu.au) at Adelaide University. It brings together researchers, educators, and practitioners to share methods, exchange ideas, and build the collaborations that move the field forward.
-
-This is not a conference. There are no passive audiences, no keynotes delivered from a distance. The Adelaide School is designed around participation — structured sessions where you bring your work, your questions, and your half-formed ideas, and leave with something concrete.
-
-## Who is it for?
-
-- Early and mid-career researchers in education, learning sciences, psychology, and adjacent fields
-- Practitioners working with data in school, university, or workplace learning contexts
-- Research students looking to build skills in methods, AI tools, and grant strategy
-- Anyone curious about what learning sciences and AI can do together
-
-## What to expect
-
-Two days structured around three things: **learning new methods and tools**, **sharing your own work**, and **making connections** with people you want to work with.
-
-→ [See the full program](program.qmd)
-
-→ [Browse the sessions](sessions.qmd)
-
-## Hosted by
-
-The Adelaide School is an initiative of **C3L — the Centre for Change and Complexity in Learning** at Adelaide University, with sessions led by C3L researchers and invited collaborators from across Australia and beyond.
+<div class="info-strip">
+  <div class="info-item">
+    <span class="info-label">When</span>
+    <span class="info-val">TBC 2026</span>
+  </div>
+  <div class="info-sep"></div>
+  <div class="info-item">
+    <span class="info-label">Where</span>
+    <span class="info-val">Adelaide University</span>
+  </div>
+  <div class="info-sep"></div>
+  <div class="info-item">
+    <span class="info-label">Host</span>
+    <span class="info-val">C3L</span>
+  </div>
+  <a class="register-btn" href="#">Register interest</a>
+</div>
+```

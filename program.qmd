@@ -1,13 +1,14 @@
 ---
 title: "Program"
-subtitle: "Two days. Twelve sessions. One community."
 ---
 
-The Adelaide School runs across two full days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
+Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
 
 ---
 
-## Day One
+::: {.day-header}
+Day One
+:::
 
 ::: {.card-session}
 ::: {.time-badge}
@@ -39,7 +40,7 @@ This session belongs to you. We open the floor to hear directly from participant
 ### Breakout Sessions I
 Choose one of our parallel sessions and go deep. Each 90-minute session is designed to be hands-on, conversational, and directly applicable to your work.
 
-→ [See all sessions](sessions.qmd)
+→ [See all sessions](sessions.html)
 :::
 
 ::: {.card-session}
@@ -56,7 +57,7 @@ Choose one of our parallel sessions and go deep. Each 90-minute session is desig
 ### Breakout Sessions II
 A second round of parallel sessions — a different theme, a different room, another chance to build skills and connect with people working on similar problems.
 
-→ [See all sessions](sessions.qmd)
+→ [See all sessions](sessions.html)
 :::
 
 ::: {.card-session}
@@ -76,7 +77,9 @@ Bring a slide, a prototype, a finding, or just an idea you're wrestling with. Th
 
 ---
 
-## Day Two
+::: {.day-header}
+Day Two
+:::
 
 ::: {.card-session}
 ::: {.time-badge}
