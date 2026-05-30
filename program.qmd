@@ -2,7 +2,7 @@
 title: "Program"
 ---
 
-Two days. Mornings are shared — everyone in the same room. Each day features a single extended workshop block where participants stay with the same session for three hours, going deeper than a standard 90-minute slot allows. Each day closes with something that makes the learning stick.
+Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
 
 ```{=html}
 <div class="day-tabs">
@@ -38,27 +38,36 @@ This session belongs to you. We open the floor to hear directly from participant
 
 ::: {.card-session}
 ::: {.time-badge}
-11:00 – 2:00 (incl. lunch)
+11:00 – 12:30
 :::
-### Workshop Sessions
-Choose one of our parallel sessions and go deep. Each session runs for three hours — with a break for lunch built in — giving you real time to work with the material, ask questions, and connect with others in the room.
+### Breakout Sessions — Part I
+Choose one of our parallel sessions and go deep. Each 90-minute session is designed to be hands-on, conversational, and directly applicable to your work. You will stay with the same session for Part II after lunch.
 
 → [See all sessions](sessions.html)
 :::
 
 ::: {.card-session}
 ::: {.time-badge}
-2:00 – 2:30
+12:30 – 2:00
 :::
-### Afternoon Break
+### Lunch
 :::
 
 ::: {.card-session}
 ::: {.time-badge}
-2:30 – 4:00
+2:00 – 3:30
 :::
-### Workshop Sessions (continued)
-Remaining time with your workshop group to consolidate, discuss, and work on applying what you've covered.
+### Breakout Sessions — Part II
+A second 90-minute block with the same session and speakers. Go deeper, work through questions, and consolidate what you've covered.
+
+→ [See all sessions](sessions.html)
+:::
+
+::: {.card-session}
+::: {.time-badge}
+3:30 – 4:00
+:::
+### Afternoon Break
 :::
 
 ::: {.card-session}
