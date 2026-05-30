@@ -4,7 +4,6 @@ project:
 
 website:
   title: "The Adelaide School"
-  subtitle: "Learning Sciences, Data & AI"
   navbar:
     left:
       - href: index.qmd
