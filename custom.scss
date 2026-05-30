@@ -1,0 +1,112 @@
+/*-- scss:defaults --*/
+$primary: #1a3a5c;
+$secondary: #2e7d9e;
+$accent: #e8a020;
+$light: #f8f9fa;
+$dark: #1a1a2e;
+
+$font-family-sans-serif: 'Source Sans 3', sans-serif;
+$headings-font-family: 'Playfair Display', serif;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+.navbar {
+  background-color: $primary !important;
+  border-bottom: 3px solid $accent;
+}
+
+.navbar-brand {
+  font-family: $headings-font-family;
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: white !important;
+}
+
+h1, h2, h3 {
+  font-family: $headings-font-family;
+  color: $primary;
+}
+
+.hero {
+  background: linear-gradient(135deg, $primary 0%, $secondary 100%);
+  color: white;
+  padding: 5rem 2rem;
+  margin-bottom: 3rem;
+  position: relative;
+  overflow: hidden;
+
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: $accent;
+  }
+
+  h1 {
+    color: white;
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    font-size: 1.3rem;
+    opacity: 0.9;
+    font-weight: 300;
+  }
+
+  .badge-date {
+    display: inline-block;
+    background: $accent;
+    color: $dark;
+    padding: 0.4rem 1.2rem;
+    border-radius: 2px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    margin-top: 1.5rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+}
+
+.card-session {
+  border: none;
+  border-left: 4px solid $accent;
+  background: $light;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border-radius: 0 4px 4px 0;
+
+  h3 {
+    font-size: 1.1rem;
+    margin-bottom: 0.4rem;
+  }
+
+  .time-badge {
+    font-size: 0.85rem;
+    color: $secondary;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+}
+
+.track-ai {
+  border-left-color: #2e7d9e;
+}
+
+.track-ls {
+  border-left-color: #2e8b57;
+}
+
+.page-footer {
+  border-top: 3px solid $accent;
+  margin-top: 4rem;
+  padding-top: 1.5rem;
+  color: #666;
+  font-size: 0.9rem;
+}

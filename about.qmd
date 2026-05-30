@@ -1,0 +1,28 @@
+---
+title: "About"
+subtitle: "Why The Adelaide School exists."
+---
+
+## The idea
+
+Research in learning sciences, data, and AI is advancing fast. But the communities working on these problems — educational psychologists, learning analytics researchers, AI developers, classroom practitioners — often don't talk to each other as much as they should.
+
+The Adelaide School was designed to close that gap. Not through another conference, but through two days of structured, participatory work: shared methods, honest conversations about what's hard, and the kind of collaboration that only happens when people are actually in the room together.
+
+## The format
+
+Every design decision in The Adelaide School is intentional. The opening session asks participants what they need — because we've learned that the most useful agenda is one that responds to the people in the room. The Open Gallery on Day Two keeps yesterday's learning alive rather than letting it disappear into notes nobody reads. The Research Clinic gives people a place to work on something real, not just absorb new information.
+
+The certificate pathway is designed the same way: recognition that is tied to genuine participation and contribution, not just attendance.
+
+## The host
+
+The Adelaide School is an initiative of **C3L — the Centre for Change and Complexity in Learning** at Adelaide University.
+
+C3L conducts research at the intersection of learning analytics, artificial intelligence, and human development. Our work spans schools, universities, and workplaces, and is supported by funding from the ARC, NHMRC, and international partners.
+
+[Learn more about C3L →](https://c3l.edu.au)
+
+## Contact
+
+For inquiries about The Adelaide School, session submissions, or partnership opportunities, contact the C3L team at Adelaide University.

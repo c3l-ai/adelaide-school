@@ -1,0 +1,142 @@
+---
+title: "Program"
+subtitle: "Two days. Twelve sessions. One community."
+---
+
+The Adelaide School runs across two full days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
+
+---
+
+## Day One
+
+::: {.card-session}
+::: {.time-badge}
+8:30 – 9:00
+:::
+### Arrival & Registration
+Pick up your name badge, grab a coffee, and connect with fellow participants before we begin.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+9:00 – 10:30
+:::
+### Opening: Field Signals — What's Working, What's Broken, What's Next
+This session belongs to you. We open the floor to hear directly from participants — what challenges are you navigating in your research, teaching, or practice? What seems to be working in your context, and what isn't? Your input shapes the conversations we have over the next two days.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+10:30 – 11:00
+:::
+### Morning Break
+:::
+
+::: {.card-session}
+::: {.time-badge}
+11:00 – 12:30
+:::
+### Breakout Sessions I
+Choose one of our parallel sessions and go deep. Each 90-minute session is designed to be hands-on, conversational, and directly applicable to your work.
+
+→ [See all sessions](sessions.qmd)
+:::
+
+::: {.card-session}
+::: {.time-badge}
+12:30 – 2:00
+:::
+### Lunch
+:::
+
+::: {.card-session}
+::: {.time-badge}
+2:00 – 3:30
+:::
+### Breakout Sessions II
+A second round of parallel sessions — a different theme, a different room, another chance to build skills and connect with people working on similar problems.
+
+→ [See all sessions](sessions.qmd)
+:::
+
+::: {.card-session}
+::: {.time-badge}
+3:30 – 4:00
+:::
+### Afternoon Break
+:::
+
+::: {.card-session}
+::: {.time-badge}
+4:00 – 6:00
+:::
+### Showcase & Connect: Share Your Work, Meet Your Collaborators
+Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.
+:::
+
+---
+
+## Day Two
+
+::: {.card-session}
+::: {.time-badge}
+8:30 – 9:00
+:::
+### Arrival & Registration
+Welcome back. Coffee is on.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+9:00 – 10:30
+:::
+### Making Sense of Day One — and Navigating the Funding Landscape
+*with Peter Goodyear*
+
+We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? Peter Goodyear joins us to share hard-won insight into the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+10:30 – 11:00
+:::
+### Morning Break
+:::
+
+::: {.card-session}
+::: {.time-badge}
+11:00 – 12:30
+:::
+### Open Gallery
+Yesterday's sessions don't disappear — they come back as a gallery. Each presenter sets up a brief station where you can get a rapid overview of what was covered, ask the questions you didn't get to ask, and make the connections you missed. Move freely, stay as long as you like at each stop.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+12:30 – 2:00
+:::
+### Lunch
+:::
+
+::: {.card-session}
+::: {.time-badge}
+2:00 – 3:30
+:::
+### Research Clinic: Design Your Next Move
+Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.
+:::
+
+::: {.card-session}
+::: {.time-badge}
+3:30 – 4:00
+:::
+### Afternoon Break
+:::
+
+::: {.card-session}
+::: {.time-badge}
+4:00 – 5:00
+:::
+### Closing: What We're Building Together
+We close not with a summary but with a commitment. What collaborations are forming? What follow-up do we need? Participants share intentions, facilitators map connection points, and we sketch what comes next for this community.
+:::

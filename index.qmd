@@ -1,0 +1,41 @@
+---
+title: ""
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+# The Adelaide School
+## Learning Sciences, Data & AI
+
+An intensive two-day forum for researchers, educators, and practitioners working at the intersection of learning, data, and artificial intelligence.
+
+::: {.badge-date}
+Coming 2026 · Adelaide University
+:::
+:::
+
+## What is The Adelaide School?
+
+The Adelaide School is a two-day intensive event hosted by the [Centre for Change and Complexity in Learning (C3L)](https://c3l.edu.au) at Adelaide University. It brings together researchers, educators, and practitioners to share methods, exchange ideas, and build the collaborations that move the field forward.
+
+This is not a conference. There are no passive audiences, no keynotes delivered from a distance. The Adelaide School is designed around participation — structured sessions where you bring your work, your questions, and your half-formed ideas, and leave with something concrete.
+
+## Who is it for?
+
+- Early and mid-career researchers in education, learning sciences, psychology, and adjacent fields
+- Practitioners working with data in school, university, or workplace learning contexts
+- Research students looking to build skills in methods, AI tools, and grant strategy
+- Anyone curious about what learning sciences and AI can do together
+
+## What to expect
+
+Two days structured around three things: **learning new methods and tools**, **sharing your own work**, and **making connections** with people you want to work with.
+
+→ [See the full program](program.qmd)
+
+→ [Browse the sessions](sessions.qmd)
+
+## Hosted by
+
+The Adelaide School is an initiative of **C3L — the Centre for Change and Complexity in Learning** at Adelaide University, with sessions led by C3L researchers and invited collaborators from across Australia and beyond.

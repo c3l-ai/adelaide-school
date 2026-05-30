@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "The Adelaide School"
+  subtitle: "Learning Sciences, Data & AI"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: program.qmd
+        text: Program
+      - href: sessions.qmd
+        text: Sessions
+      - href: speakers.qmd
+        text: Speakers
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/c3l-ai/adelaide-school
+
+  page-footer:
+    center: "© 2026 Centre for Change and Complexity in Learning (C3L), Adelaide University"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    css: styles.css
+    toc: true
+    toc-depth: 2
