@@ -11,6 +11,7 @@ toc: false
   <p class="hero-title-sub">of Learning Sciences, Data &amp; AI</p>
   <hr class="hero-rule">
   <p class="hero-tag">Nov 12 &amp; 13 &nbsp;·&nbsp; Twelve sessions &nbsp;·&nbsp; One community built to last</p>
+  <p class="hero-free">★ Free Event</p>
   <a class="hero-btn" href="program.html">View Program</a>
 </div>
 

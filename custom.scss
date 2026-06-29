@@ -109,6 +109,18 @@ h1, h2, h3, h4 {
   border-radius: 0;
 }
 .hero-btn:hover { background: #1448FF; color: #fff !important; }
+.hero-free {
+  display: inline-block;
+  background: #F8EFE0;
+  color: #140F50;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 0.45rem 1.4rem;
+  margin: 0 0 1.75rem;
+}
 
 /* Pillars */
 .pillars {
