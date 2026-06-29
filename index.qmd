@@ -47,7 +47,7 @@ toc: false
 <div class="info-strip">
   <div class="info-item">
     <span class="info-label">When</span>
-    <span class="info-val">November 2026</span>
+    <span class="info-val">12–13 November 2026</span>
   </div>
   <div class="info-sep"></div>
   <div class="info-item">
@@ -58,6 +58,11 @@ toc: false
   <div class="info-item">
     <span class="info-label">Host</span>
     <span class="info-val">C3L</span>
+  </div>
+  <div class="info-sep"></div>
+  <div class="info-item">
+    <span class="info-label">Venue</span>
+    <span class="info-val">City East</span>
   </div>
   <a class="register-btn" href="#">Register interest</a>
 </div>
