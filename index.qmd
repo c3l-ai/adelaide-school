@@ -64,6 +64,6 @@ toc: false
     <span class="info-label">Venue</span>
     <span class="info-val">City East</span>
   </div>
-  <a class="register-btn" href="#">Register interest</a>
+  <a class="register-btn" href="https://events.humanitix.com/YOUR-EVENT-LINK" target="_blank" rel="noopener">Register interest</a>
 </div>
 ```
