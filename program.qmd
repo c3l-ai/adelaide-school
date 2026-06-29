@@ -35,9 +35,10 @@ toc: false
     <div class="prog-item type-plenary">
       <div class="prog-time">9:30 – 10:30</div>
       <div class="prog-body">
-        <div class="prog-tag">Facilitated Session</div>
-        <div class="prog-title">Field Signals — What's Working, What's Broken, What's Next</div>
-        <div class="prog-desc">A structured, facilitated conversation designed to surface what's actually on participants' minds. We use targeted prompts to draw out the challenges you're navigating, the approaches that seem to be working, and the questions you haven't been able to answer yet. This isn't a panel — everyone contributes. What emerges directly shapes the conversations across the rest of the two days.</div>
+        <div class="prog-tag">Plenary Talk</div>
+        <div class="prog-title">Control, Value, and Emotion: What AI Is Doing to the Learner's Experience</div>
+        <div class="prog-desc">AI is quietly reshaping how learners experience control, value, and emotion in their work. Reinhard Pekrun puts control-value theory to work as a measurable lens on AI-mediated learning, with a sharp focus on the methods — how to capture achievement emotions and design studies that reveal whether AI supports or undermines them.</div>
+        <div class="prog-speaker">With Reinhard Pekrun</div>
       </div>
     </div>
 
