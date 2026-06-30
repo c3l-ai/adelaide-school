@@ -46,14 +46,6 @@ toc: false
   </div>
 </div>
 
-<div class="grit-section">
-  <div class="grit-inner">
-    <h2>For AUGRs: build your GRIT hours</h2>
-    <p>AUGRs may be able to self-record participation in the Adelaide School as a flexible GRIT activity. A <strong>certificate of attendance</strong> will be issued to all registered participants.</p>
-    <p class="grit-note">Students should record their own attendance in GRIT and keep evidence such as registration confirmation, the event program, session details, attendance confirmation, or a certificate of participation. Final approval is subject to Adelaide University's GRIT review process.</p>
-  </div>
-</div>
-
 <div class="info-strip">
   <div class="info-item">
     <span class="info-label">When</span>
@@ -75,5 +67,13 @@ toc: false
     <span class="info-val">City East Campus</span>
   </div>
   <a class="register-btn" href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Register interest</a>
+</div>
+
+<div class="grit-section">
+  <div class="grit-inner">
+    <h2>For AUGRs: build your GRIT hours</h2>
+    <p>AUGRs may be able to self-record participation in the Adelaide School as a flexible GRIT activity. A <strong>certificate of attendance</strong> will be issued to all registered participants.</p>
+    <p class="grit-note">Students should record their own attendance in GRIT and keep evidence such as registration confirmation, the event program, session details, attendance confirmation, or a certificate of participation. Final approval is subject to Adelaide University's GRIT review process.</p>
+  </div>
 </div>
 ```
