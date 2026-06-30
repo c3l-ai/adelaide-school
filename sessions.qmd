@@ -128,7 +128,7 @@ An overview of current directions in qualitative educational research, drawing o
 :::
 
 ::: {.card-session .track-ls}
-### Classroom Dialogue as Data: A Working Prototype for Real-Time Surfacing Learning Dispositions
+### A Working Prototype for Real-Time Surfacing of Learning Dispositions in K-12 Collaborative Learning
 *Andrew Zamecnik*
 
 This session walks through a working prototype that puts AI agents into a K-12 classroom in real time — aligned to curriculum frameworks, assessing learning dispositions as they emerge in discourse. Andrew Zamecnik covers what it takes to make this work: the audio and video infrastructure, the tradeoffs of capturing classroom speech at scale, and what the system can and can't yet reliably detect.
