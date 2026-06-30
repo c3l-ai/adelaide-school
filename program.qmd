@@ -13,6 +13,7 @@ toc: false
   <div class="prog-day-label">
     <div class="prog-day-number">01</div>
     <div class="prog-day-name">Day One</div>
+    <div class="prog-day-date">Nov 12</div>
   </div>
   <div class="prog-day-sessions">
 
@@ -100,6 +101,7 @@ toc: false
   <div class="prog-day-label">
     <div class="prog-day-number">02</div>
     <div class="prog-day-name">Day Two</div>
+    <div class="prog-day-date">Nov 13</div>
   </div>
   <div class="prog-day-sessions">
 
