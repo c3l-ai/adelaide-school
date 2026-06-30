@@ -26,7 +26,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ai" href="#deploy-your-ai-agent-from-prototype-to-practice">
       <div class="glance-card-title">Deploy Your AI Agent: From Prototype to Practice</div>
-      <div class="glance-card-presenter">Vita Kovanovic</div>
+      <div class="glance-card-presenter">Vitomir Kovanovic</div>
     </a>
     <a class="glance-card ai" href="#evaluating-ai-agents-how-do-you-know-its-working">
       <div class="glance-card-title">Evaluating AI Agents: How Do You Know It's Working?</div>
@@ -34,7 +34,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ai" href="#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">
       <div class="glance-card-title">Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous</div>
-      <div class="glance-card-presenter">Ryan Baker&amp; Linxuan Zhao</div>
+      <div class="glance-card-presenter">Ryan Baker &amp; Linxuan Zhao</div>
     </a>
   </div>
 
@@ -53,7 +53,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ls" href="#leading-in-academia-building-partnerships-with-schools-and-government">
       <div class="glance-card-title">Leading in Academia: Building Partnerships with Schools and Government</div>
-      <div class="glance-card-presenter">Maria Vieira, Rebecca Marrone &amp; ShaneDawson</div>
+      <div class="glance-card-presenter">Maria Vieira, Rebecca Marrone &amp; Shane Dawson</div>
     </a>
     <a class="glance-card ls" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
       <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
