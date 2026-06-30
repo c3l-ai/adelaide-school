@@ -22,19 +22,19 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </div>
     <a class="glance-card ai" href="#build-your-own-ai-research-assistant">
       <div class="glance-card-title">Build Your Own AI Research Assistant</div>
-      <div class="glance-card-presenter">Daniel</div>
+      <div class="glance-card-presenter">Daniel Ebbert</div>
     </a>
     <a class="glance-card ai" href="#deploy-your-ai-agent-from-prototype-to-practice">
       <div class="glance-card-title">Deploy Your AI Agent: From Prototype to Practice</div>
-      <div class="glance-card-presenter">Vita</div>
+      <div class="glance-card-presenter">Vita Kovanovic</div>
     </a>
     <a class="glance-card ai" href="#evaluating-ai-agents-how-do-you-know-its-working">
       <div class="glance-card-title">Evaluating AI Agents: How Do You Know It's Working?</div>
-      <div class="glance-card-presenter">Srecko</div>
+      <div class="glance-card-presenter">Srecko Joksimovic</div>
     </a>
     <a class="glance-card ai" href="#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">
       <div class="glance-card-title">Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous</div>
-      <div class="glance-card-presenter">Ryan &amp; Linxuan</div>
+      <div class="glance-card-presenter">Ryan Baker&amp; Linxuan Zhao</div>
     </a>
   </div>
 
@@ -49,23 +49,23 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ls" href="#multimodal-data-in-the-classroom-what-to-capture-and-why">
       <div class="glance-card-title">Multimodal Data in the Classroom: What to Capture and Why</div>
-      <div class="glance-card-presenter">Andrew</div>
+      <div class="glance-card-presenter">Andrew Zamecnik</div>
     </a>
     <a class="glance-card ls" href="#leading-in-academia-building-partnerships-with-schools-and-government">
       <div class="glance-card-title">Leading in Academia: Building Partnerships with Schools and Government</div>
-      <div class="glance-card-presenter">Maria, Bec &amp; Shane</div>
+      <div class="glance-card-presenter">Maria Vieira, Rebecca Marrone &amp; ShaneDawson</div>
     </a>
     <a class="glance-card ls" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
       <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
-      <div class="glance-card-presenter">Flora</div>
+      <div class="glance-card-presenter">Florence Gabriel</div>
     </a>
     <a class="glance-card ls" href="#designing-your-research-instrument-from-construct-to-question">
       <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
-      <div class="glance-card-presenter">Phuong &amp; Oscar</div>
+      <div class="glance-card-presenter">Phuong Pham &amp; Oscar Deho</div>
     </a>
     <a class="glance-card ls" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
       <div class="glance-card-title">What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</div>
-      <div class="glance-card-presenter">Flo &amp; Abhinava</div>
+      <div class="glance-card-presenter">Flora Jin &amp; Abhinava Barthakur</div>
     </a>
     <a class="glance-card ls" href="#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">
       <div class="glance-card-title">Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</div>
@@ -88,28 +88,28 @@ Sessions in this track are workshop-style and practical. You will leave with som
 
 ::: {.card-session .track-ai}
 ### Build Your Own AI Research Assistant
-*Daniel*
+*Daniel Ebbert*
 
 You don't need to be a developer to build a tool that works for your research. This session walks you through designing and deploying a simple AI assistant tailored to your own workflow — literature review, data coding, writing support, or something else entirely.
 :::
 
 ::: {.card-session .track-ai}
 ### Deploy Your AI Agent: From Prototype to Practice
-*Vita*
+*Vitomir Kovanovic*
 
 Building an AI agent is one thing. Getting it to work reliably in a real research or teaching context is another. This session covers the practical decisions that sit between a proof-of-concept and something you can actually use — and trust.
 :::
 
 ::: {.card-session .track-ai}
 ### Evaluating AI Agents: How Do You Know It's Working?
-*Srecko*
+*Srecko Joksimovic*
 
 If you're using an AI agent in your research or practice, how do you know it's doing what you think it's doing? This session introduces evaluation frameworks for AI agents — from basic output checks to more systematic approaches for assessing quality, consistency, and alignment with your goals.
 :::
 
 ::: {.card-session .track-ai}
 ### Coding Qualitative Data with AI: Faster, Smarter, Still Rigorous
-*Ryan & Linxuan*
+*Ryan Baker & Linxuan Zhao*
 
 AI tools are changing how qualitative researchers work with data — but not always in the ways people expect. This session examines what AI can and can't do in qualitative coding, with hands-on practice and an honest discussion about rigour, transparency, and what you still need to do yourself.
 :::
@@ -129,35 +129,35 @@ An overview of current directions in qualitative educational research, drawing o
 
 ::: {.card-session .track-ls}
 ### Multimodal Data in the Classroom: What to Capture and Why
-*Andrew*
+*Andrew Zamecnik*
 
 Classrooms generate more data than ever — physiological signals, log data, discourse, video. But more data is not always better data. This session examines the decisions that matter: what to collect, how to integrate across modalities, and how to stay grounded in the learning question you're actually trying to answer.
 :::
 
 ::: {.card-session .track-ls}
 ### Leading in Academia: Building Partnerships with Schools and Government
-*Maria, Bec & Shane*
+*Maria Vieira, Rebecca Marrone & Shane Dawson*
 
 Research that matters usually involves partners outside the university. This session draws on direct experience of building and sustaining partnerships with schools and government — what works, what doesn't, and what you need to put in place before you start.
 :::
 
 ::: {.card-session .track-ls}
 ### Tracing Self-Regulation: Analysing Process Data in Learning Research
-*Flora*
+*Flora Jin*
 
 Self-regulated learning is one of the most studied constructs in educational psychology — and one of the hardest to measure well. This session focuses on process data approaches: how to move beyond self-report, what temporal and sequential analyses can reveal, and what the data can and cannot tell you about how learners actually regulate.
 :::
 
 ::: {.card-session .track-ls}
 ### Designing Your Research Instrument: From Construct to Question
-*Phuong & Oscar*
+*Phuong Pham & Oscar Deho*
 
 A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
 :::
 
 ::: {.card-session .track-ls}
 ### What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data
-*Flo & Abhinava*
+*Florence Gabriel & Abhinava Barthakur*
 
 Measurement in education is harder than it looks. This session takes seriously the question of what it means to measure learning, engagement, anxiety, or wellbeing — examining construct validity, the gap between what we measure and what we care about, and what good measurement practice looks like in practice.
 :::
