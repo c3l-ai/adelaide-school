@@ -47,8 +47,8 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       <div class="glance-card-title">The State of Qualitative Research: Perspectives from CRESI</div>
       <div class="glance-card-presenter">CRESI</div>
     </a>
-    <a class="glance-card ls" href="#multimodal-data-in-the-classroom-what-to-capture-and-why">
-      <div class="glance-card-title">Multimodal Data in the Classroom: What to Capture and Why</div>
+    <a class="glance-card ls" href="#classroom-dialogue-as-data-a-working-prototype-for-surfacing-learning-dispositions-in-real-time">
+      <div class="glance-card-title">Classroom Dialogue as Data: A Working Prototype for Real-Time Surfacing Learning Dispositions</div>
       <div class="glance-card-presenter">Andrew Zamecnik</div>
     </a>
     <a class="glance-card ls" href="#leading-in-academia-building-partnerships-with-schools-and-government">
@@ -128,10 +128,10 @@ An overview of current directions in qualitative educational research, drawing o
 :::
 
 ::: {.card-session .track-ls}
-### Multimodal Data in the Classroom: What to Capture and Why
+### Classroom Dialogue as Data: A Working Prototype for Real-Time Surfacing Learning Dispositions
 *Andrew Zamecnik*
 
-Classrooms generate more data than ever — physiological signals, log data, discourse, video. But more data is not always better data. This session examines the decisions that matter: what to collect, how to integrate across modalities, and how to stay grounded in the learning question you're actually trying to answer.
+This session walks through a working prototype that puts AI agents into a K-12 classroom in real time — aligned to curriculum frameworks, assessing learning dispositions as they emerge in discourse. Andrew Zamecnik covers what it takes to make this work: the audio and video infrastructure, the tradeoffs of capturing classroom speech at scale, and what the system can and can't yet reliably detect.
 :::
 
 ::: {.card-session .track-ls}
