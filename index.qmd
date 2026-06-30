@@ -37,11 +37,20 @@ toc: false
   <div class="who-inner">
     <h2>Who is it for?</h2>
     <ul class="who-list">
-      <li>Higher Degree by Research (HDR) students looking to build skills in methods, AI tools, and grant strategy</li>
+      <li>Adelaide University Graduate Researchers (AUGRs) looking to build skills in methods, AI tools, and grant strategy</li>
+      <li>Higher Degree Researchers (HDRs) from other institutions seeking new methods, tools, and collaborations</li>
       <li>Early Career Researchers (ECRs) in education, learning sciences, psychology, and adjacent fields</li>
       <li>Mid-Career Researchers (MCRs) seeking new collaborations and methodological directions</li>
       <li>Practitioners working with data in school, university, or workplace learning contexts</li>
     </ul>
+  </div>
+</div>
+
+<div class="grit-section">
+  <div class="grit-inner">
+    <h2>For AUGRs: build your GRIT hours</h2>
+    <p>AUGRs may be able to self-record participation in the Adelaide School as a flexible GRIT activity. A <strong>certificate of attendance</strong> will be issued to all registered participants.</p>
+    <p class="grit-note">Students should record their own attendance in GRIT and keep evidence such as registration confirmation, the event program, session details, attendance confirmation, or a certificate of participation. Final approval is subject to Adelaide University's GRIT review process.</p>
   </div>
 </div>
 

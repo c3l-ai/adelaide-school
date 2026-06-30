@@ -185,6 +185,53 @@ h1, h2, h3, h4 {
 }
 .who-list li::before { content: '→'; color: #836BFF; flex-shrink: 0; margin-top: 1px; font-weight: 700; }
 
+/* GRIT section */
+.grit-section {
+  background: #140F50;
+  padding: 3.5rem 3rem;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.grit-inner {
+  max-width: 680px;
+}
+.grit-section h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin-bottom: 1.25rem;
+}
+.grit-section p {
+  font-family: 'Roboto Serif', serif;
+  font-size: 0.9rem;
+  line-height: 1.7;
+  color: rgba(255,255,255,0.8);
+  margin-bottom: 0.75rem;
+}
+.grit-note {
+  font-size: 0.8rem !important;
+  color: rgba(255,255,255,0.5) !important;
+  border-left: 2px solid #836BFF;
+  padding-left: 0.75rem;
+  margin-top: 1rem !important;
+}
+.grit-btn {
+  display: inline-block;
+  margin-top: 1.5rem;
+  padding: 0.7rem 2rem;
+  background: #836BFF;
+  color: #fff !important;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.95rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.grit-btn:hover { background: #1448FF; color: #fff !important; }
+
 /* Info strip */
 .info-strip {
   display: flex;
