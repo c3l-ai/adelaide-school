@@ -107,18 +107,27 @@ h1, h2, h3, h4 {
   text-transform: uppercase;
   text-decoration: none;
   border-radius: 0;
+  border: 2px solid transparent;
 }
 .hero-btn:hover { background: #1448FF; color: #fff !important; }
+.hero-btn-outline {
+  background: transparent;
+  border: 2px solid #fff;
+  color: #fff !important;
+  margin-left: 0.75rem;
+}
+.hero-btn-outline:hover { background: #fff; color: #140F50 !important; }
 .hero-free {
   display: inline-block;
   background: #F8EFE0;
   color: #140F50;
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 700;
-  font-size: 1.1rem;
-  letter-spacing: 0.14em;
+  font-size: 0.95rem;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  padding: 0.45rem 1.4rem;
+  padding: 0.7rem 2rem;
+  border: 2px solid transparent;
   margin: 0 0 1.75rem;
 }
 

@@ -13,6 +13,7 @@ toc: false
   <p class="hero-tag">Nov 12 &amp; 13 &nbsp;·&nbsp; Twelve sessions &nbsp;·&nbsp; One community built to last</p>
   <p class="hero-free">★ Free Event</p>
   <a class="hero-btn" href="program.html">View Program</a>
+  <a class="hero-btn hero-btn-outline" href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Register interest</a>
 </div>
 
 <div class="pillars">
