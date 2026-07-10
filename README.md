@@ -9,14 +9,14 @@ The Adelaide School brings together researchers, educators, and practitioners wo
 
 ## Site Structure
 
-| File | Description |
-|------|-------------|
-| `index.qmd` | Home page — event overview and audience framing |
-| `program.qmd` | Full two-day program with session descriptions |
-| `sessions.qmd` | Twelve parallel sessions across two tracks |
-| `speakers.qmd` | Speaker profiles (to be populated) |
-| `about.qmd` | Event rationale, format, and C3L context |
-| `custom.scss` | Branding — C3L colour palette and typography |
+| File | Description                                                           |
+|------|-----------------------------------------------------------------------|
+| `index.qmd` | Home page — event overview and audience framing                       |
+| `program.qmd` | Full two-day program with session descriptions                        |
+| `sessions.qmd` | Twelve parallel sessions across two tracks                            |
+| `speakers.qmd` | Speaker profiles (to be populated)                                    |
+| `about.qmd` | Event rationale, format, and C3L context                              |
+| `custom.scss` | Branding — C3Lre colour palette and typography                        |
 | `.github/workflows/publish.yml` | GitHub Actions: renders and deploys to GitHub Pages on push to `main` |
 
 ## Local Development

@@ -57,7 +57,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ls" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
       <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
-      <div class="glance-card-presenter">Florence Gabriel</div>
+      <div class="glance-card-presenter">Flora Jin</div>
     </a>
     <a class="glance-card ls" href="#designing-your-research-instrument-from-construct-to-question">
       <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
@@ -65,7 +65,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
     </a>
     <a class="glance-card ls" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
       <div class="glance-card-title">What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</div>
-      <div class="glance-card-presenter">Flora Jin &amp; Abhinava Barthakur</div>
+      <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
     </a>
     <a class="glance-card ls" href="#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">
       <div class="glance-card-title">Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</div>
