@@ -372,6 +372,50 @@ h1, h2, h3, h4 {
 }
 .grit-btn:hover { background: #0047BB; color: #fff !important; }
 
+/* Supporters */
+.supporters {
+  background: #F4EDE4;
+  padding: 2.4rem 3rem;
+  border-bottom: 1px solid #D8CFC6;
+}
+.supporters-inner {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  flex-wrap: wrap;
+}
+.supporter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+.supporter-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #685BC7;
+  font-weight: 700;
+}
+.supporter img {
+  display: block;
+  width: 190px;
+  max-width: 100%;
+  height: auto;
+  /* Both logo files are opaque white-background PNGs; multiply drops the
+     white so they sit directly on the cream band. */
+  mix-blend-mode: multiply;
+}
+.supporter-ascilite {
+  width: 210px;
+}
+/* No opacity/filter here: either would create a stacking context and stop the
+   images' mix-blend-mode from reaching the band background. */
+.supporter a {
+  display: inline-block;
+}
+.supporter-sep { width: 1px; align-self: stretch; background: #D8CFC6; }
+
 /* Info strip */
 .info-strip {
   display: flex;
@@ -465,6 +509,27 @@ h1, h2, h3, h4 {
 }
 .footer-brand {
   margin-bottom: 0.75rem;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.footer-org,
+.footer-org p {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0;
+}
+.footer-org-label {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.7rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #685BC7;
+  font-weight: 700;
 }
 .footer-brand img {
   display: inline-block;
@@ -473,6 +538,9 @@ h1, h2, h3, h4 {
   height: auto;
   background: #fff;
   padding: 0.65rem 0.75rem;
+}
+.footer-ascilite {
+  width: 165px !important;
 }
 
 /* TOC */
@@ -973,6 +1041,7 @@ a:hover { color: #071D49; }
   .who-section,
   .info-strip,
   .grit-section,
+  .supporters,
   .program-intro,
   .prog-day {
     width: 100%;
@@ -1135,6 +1204,16 @@ a:hover { color: #071D49; }
     font-size: 0.82rem;
     line-height: 1.55;
   }
+
+  .supporters {
+    padding: 1.6rem 1rem;
+  }
+  .supporters-inner {
+    gap: 1.5rem;
+  }
+  .supporter-sep { display: none; }
+  .supporter img { width: 150px; }
+  .supporter-ascilite { width: 170px; }
 
   .glance-grid {
     grid-template-columns: 1fr;
