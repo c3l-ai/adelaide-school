@@ -1,6 +1,8 @@
 ---
 title: "Program"
 toc: false
+resources:
+  - images/venues/
 ---
 
 ```{=html}
@@ -10,6 +12,13 @@ toc: false
 
 <!-- DAY ONE -->
 <div class="prog-day">
+  <div class="prog-venue">
+    <img class="prog-venue-img" src="images/venues/pridham.jpg" alt="Pridham Hall">
+    <div class="prog-venue-inner">
+      <div class="prog-venue-eyebrow">Day One · Nov 12 · Venue</div>
+      <div class="prog-venue-name">Pridham Hall</div>
+    </div>
+  </div>
   <div class="prog-day-label">
     <div class="prog-day-number">01</div>
     <div class="prog-day-name">Day One</div>
@@ -98,6 +107,13 @@ toc: false
 
 <!-- DAY TWO -->
 <div class="prog-day">
+  <div class="prog-venue">
+    <img class="prog-venue-img" src="images/venues/brook.jpg" alt="Brookman Hall">
+    <div class="prog-venue-inner">
+      <div class="prog-venue-eyebrow">Day Two · Nov 13 · Venue</div>
+      <div class="prog-venue-name">Brookman Hall</div>
+    </div>
+  </div>
   <div class="prog-day-label">
     <div class="prog-day-number">02</div>
     <div class="prog-day-name">Day Two</div>
