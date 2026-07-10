@@ -62,6 +62,17 @@ h1, h2, h3, h4 {
   text-decoration-color: #DA291C;
   text-underline-offset: 0.35rem;
 }
+.navbar-toggler {
+  border: none !important;
+  box-shadow: none !important;
+}
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler:hover {
+  border: none !important;
+  box-shadow: none !important;
+  outline: none !important;
+}
 
 /* Hero */
 .hero {
@@ -971,6 +982,19 @@ a:hover { color: #071D49; }
   .navbar {
     padding-right: 0.75rem;
   }
+  .navbar-toggler {
+    border: none !important;
+    box-shadow: none !important;
+    padding-left: 0.35rem;
+    padding-right: 0.35rem;
+  }
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler:hover {
+    border: none !important;
+    box-shadow: none !important;
+    outline: none !important;
+  }
   .navbar-brand-logo {
     display: none !important;
   }
@@ -1110,6 +1134,39 @@ a:hover { color: #071D49; }
   .grit-section p {
     font-size: 0.82rem;
     line-height: 1.55;
+  }
+
+  .glance-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    margin-bottom: 2rem;
+  }
+  .glance-track-col {
+    gap: 0.5rem;
+  }
+  .glance-track-header {
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    padding: 0.55rem 0.8rem;
+    font-size: 0.72rem;
+    letter-spacing: 0.1em;
+  }
+  .glance-card {
+    position: relative;
+    padding: 0.8rem 0.85rem 0.85rem 1rem;
+    background: #fff;
+    border: 1px solid #D8CFC6;
+    border-left-width: 4px;
+  }
+  .glance-card-title {
+    font-size: 1rem;
+    line-height: 1.2;
+    margin-bottom: 0.28rem;
+  }
+  .glance-card-presenter {
+    font-size: 0.76rem;
+    color: #071D49;
   }
 
   .program-intro {
