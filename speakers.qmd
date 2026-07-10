@@ -91,6 +91,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="jarrod-johnson">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/jarrod-johnson.jpeg" alt="Jarrod Johnson">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Jarrod Johnson</div>
+      <div class="speaker-role">Science and Technologies Educator, Pulteney Grammar School; Adjunct Research Fellow, C3L, Adelaide University</div>
+      <p class="speaker-bio">Jarrod Johnson is a Science and Technologies educator at Pulteney Grammar School and an Adjunct Research Fellow with the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His work focuses on developing practical AI tools and pedagogical approaches that support teaching, learning, and academic integrity in the classroom. Through his collaboration with C3L, Jarrod helps bridge educational research and classroom practice by trialling innovative AI applications, collecting real-time classroom data, and evaluating their impact on student learning. He is passionate about helping educators adopt AI in ways that are ethical, practical, and evidence-informed.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#a-working-prototype-for-real-time-surfacing-of-learning-dispositions-in-k-12-collaborative-learning">Real-Time Learning Dispositions in K-12 →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="phuong-pham">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/phuong-pham.jpg" alt="Phuong Pham">
