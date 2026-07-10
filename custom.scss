@@ -452,6 +452,17 @@ h1, h2, h3, h4 {
   border-top: 3px solid #685BC7;
   font-size: 0.8rem;
 }
+.footer-brand {
+  margin-bottom: 0.75rem;
+}
+.footer-brand img {
+  display: inline-block;
+  width: 150px;
+  max-width: 70vw;
+  height: auto;
+  background: #fff;
+  padding: 0.65rem 0.75rem;
+}
 
 /* TOC */
 #TOC { border-left: 2px solid #685BC7; padding-left: 1rem; }
@@ -959,6 +970,9 @@ a:hover { color: #071D49; }
 
   .navbar {
     padding-right: 0.75rem;
+  }
+  .navbar-brand-logo {
+    display: none !important;
   }
   .navbar-brand img {
     height: 44px;

@@ -23,7 +23,11 @@ website:
         href: https://github.com/c3l-ai/adelaide-school
 
   page-footer:
-    center: "© 2026 Centre for Change and Complexity in Learning (C3L), Adelaide University"
+    center: |
+      <div class="footer-brand">
+        <img src="images/logos/au-logo-primary.png" alt="Adelaide University">
+      </div>
+      <div>© 2026 Centre for Change and Complexity in Learning (C3L), Adelaide University</div>
 
 format:
   html:
