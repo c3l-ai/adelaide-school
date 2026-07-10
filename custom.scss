@@ -961,9 +961,11 @@ a:hover { color: #071D49; }
     padding-right: 0.75rem;
   }
   .navbar-brand img {
-    height: 44px;
-    padding: 12px 10px;
+    height: 40px;
+    max-width: 92px;
+    padding: 10px 8px;
     margin-right: 0.55rem;
+    object-fit: contain;
   }
 
   .hero-img {
