@@ -5,6 +5,8 @@ project:
 website:
   title: "The Adelaide School"
   navbar:
+    logo: images/logos/au-logo-primary.png
+    logo-alt: "Adelaide University"
     left:
       - href: index.qmd
         text: Home

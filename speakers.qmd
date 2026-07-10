@@ -93,7 +93,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
 
   <div class="speaker-card" id="phuong-pham">
     <div class="speaker-photo-wrap">
-      <div class="speaker-photo-placeholder">PP</div>
+      <img class="speaker-photo" src="images/speakers/phuong-pham.jpg" alt="Phuong Pham">
     </div>
     <div class="speaker-body">
       <div class="speaker-name">Phuong Pham</div>
@@ -114,6 +114,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Ryan Baker is Professor of Artificial Intelligence and Education at Adelaide University. He develops AI models that detect student engagement across diverse learning environments and co-developed an observational protocol used by more than 150 researchers in seven countries. His predictive analytics have benefited over two million students, and his MOOCs have reached more than 100,000 learners. Baker founded the International Educational Data Mining Society, serves as Associate Editor of the Journal of Educational Data Mining, and co-directs the JeepyTA learning platform. He also founded two master's programs in Learning Analytics. Baker has co-authored papers with more than 600 collaborators and has been cited over 40,000 times.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">Coding Qualitative Data with AI →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="srecko-joksimovic">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/srecko-joksimovic.jpg" alt="Srecko Joksimovic">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Srecko Joksimovic</div>
+      <div class="speaker-role">Professor &amp; Co-Director, C3L, Adelaide University</div>
+      <p class="speaker-bio">Prof Srecko Joksimovic is a researcher in learning analytics, learning sciences, and artificial intelligence in education, and Co-Director of the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His research focuses on the design and use of digital technologies and AI to support learning, collaboration, and human development. His recent work places particular emphasis on metacognition and on understanding how learners monitor, regulate, and reflect on their thinking and learning. He is especially interested in how AI can support these processes through meaningful human-AI interaction, personalised learning, and the analysis of complex learning environments.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#evaluating-ai-agents-how-do-you-know-its-working">Evaluating AI Agents →</a>
     </div>
   </div>
 
