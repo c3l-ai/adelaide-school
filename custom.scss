@@ -961,11 +961,20 @@ a:hover { color: #071D49; }
     padding-right: 0.75rem;
   }
   .navbar-brand img {
-    height: 40px;
-    max-width: 92px;
-    padding: 10px 8px;
-    margin-right: 0.55rem;
+    height: 44px;
+    max-width: 120px;
+    padding: 10px 9px;
+    margin-right: 0.4rem;
     object-fit: contain;
+  }
+  .navbar-title {
+    font-size: 0.9rem;
+    line-height: 1;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  #quarto-search {
+    display: none !important;
   }
 
   .hero-img {
