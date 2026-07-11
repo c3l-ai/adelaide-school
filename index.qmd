@@ -54,19 +54,17 @@ toc: false
     <span class="info-val">12–13 November 2026</span>
   </div>
   <div class="info-sep"></div>
-  <div class="info-item">
+  <div class="info-item info-item-venues">
     <span class="info-label">Where</span>
-    <span class="info-val">Adelaide University</span>
+    <span class="info-val info-val-stack">
+      <span><em class="info-day">Day 1</em>Pridham Hall · City West</span>
+      <span><em class="info-day">Day 2</em>Brookman Hall · City East</span>
+    </span>
   </div>
   <div class="info-sep"></div>
   <div class="info-item">
-    <span class="info-label">Host</span>
+    <span class="info-label">Organisers</span>
     <span class="info-val">C3L</span>
-  </div>
-  <div class="info-sep"></div>
-  <div class="info-item">
-    <span class="info-label">Venue</span>
-    <span class="info-val">City East Campus</span>
   </div>
   <a class="register-btn" href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Register interest</a>
 </div>

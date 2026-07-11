@@ -442,6 +442,23 @@ h1, h2, h3, h4 {
   color: #071D49;
   letter-spacing: 0.02em;
 }
+.info-val-stack {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  font-size: 1.05rem;
+  line-height: 1.2;
+}
+.info-val-stack span { white-space: nowrap; }
+.info-day {
+  font-style: normal;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #685BC7;
+  margin-right: 0.45rem;
+}
 .info-sep { width: 1px; height: 36px; background: #ddd; }
 .register-btn {
   margin-left: auto;
@@ -1184,6 +1201,12 @@ a:hover { color: #071D49; }
   .info-val {
     font-size: 1rem;
     line-height: 1.15;
+  }
+  .info-item-venues {
+    grid-column: 1 / -1;
+  }
+  .info-val-stack {
+    font-size: 0.95rem;
   }
   .register-btn {
     grid-column: 1 / -1;
