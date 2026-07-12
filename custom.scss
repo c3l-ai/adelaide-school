@@ -524,6 +524,11 @@ h1, h2, h3, h4 {
   border-top: 3px solid #685BC7;
   font-size: 0.8rem;
 }
+/* Quarto gives the centre column `flex: 1 1 0px`, i.e. a third of the footer,
+   which is too narrow for the three logos to sit on one row. */
+.nav-footer-center {
+  flex-basis: auto;
+}
 .footer-brand {
   margin-bottom: 0.75rem;
   display: flex;
@@ -556,8 +561,24 @@ h1, h2, h3, h4 {
   background: #fff;
   padding: 0.65rem 0.75rem;
 }
+/* The inner p is Quarto's markdown wrapper; it must be re-styled as a row or
+   the `.footer-org p` column rule above stacks the two logos. */
+.footer-org-logos,
+.footer-org-logos p {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  margin: 0;
+}
 .footer-ascilite {
   width: 165px !important;
+}
+/* Narrower than ASCILITE so the two logos land on the same optical height. */
+.footer-solar {
+  width: 130px !important;
 }
 
 /* TOC */

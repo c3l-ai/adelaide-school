@@ -30,8 +30,11 @@ website:
       <img src="images/logos/au-logo-primary.png" alt="Adelaide University">
       </div>
       <div class="footer-org">
-      <span class="footer-org-label">Sponsored by</span>
+      <span class="footer-org-label">Supported by</span>
+      <div class="footer-org-logos">
       <img class="footer-ascilite" src="images/logos/ascilite.png" alt="ASCILITE">
+      <img class="footer-solar" src="images/logos/solar.png" alt="SoLAR — Society for Learning Analytics Research">
+      </div>
       </div>
       </div>
       <div>© 2026 Centre for Change and Complexity in Learning (C3L), Adelaide University</div>
