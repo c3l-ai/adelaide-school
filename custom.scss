@@ -325,6 +325,59 @@ h1, h2, h3, h4 {
 }
 .who-list li::before { content: none; }
 
+/* Letter-of-support callout (ECR / HDR / AUGR) */
+.support-section {
+  background: #fff;
+  padding: 2.4rem 3rem;
+  border-bottom: 1px solid #D8CFC6;
+}
+.support-inner {
+  max-width: 1080px;
+  background: rgba(104, 91, 199, 0.07);
+  border-left: 4px solid #685BC7;
+  padding: 1.6rem 1.8rem;
+}
+.support-eyebrow {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: #685BC7;
+  margin-bottom: 0.5rem;
+}
+.support-inner h2 {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 1.7rem;
+  font-weight: 700;
+  color: #071D49;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 0 0 0.6rem;
+}
+.support-inner p {
+  font-family: 'Roboto Serif', serif;
+  font-size: 0.92rem;
+  line-height: 1.65;
+  color: #444;
+  margin: 0;
+  max-width: 62ch;
+}
+.support-btn {
+  display: inline-block;
+  margin-top: 1.2rem;
+  padding: 0.65rem 1.8rem;
+  background: #DA291C;
+  color: #fff !important;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.support-btn:hover { background: #0047BB; }
+
 /* GRIT section */
 .grit-section {
   background: #071D49;
@@ -877,6 +930,7 @@ a:hover { color: #071D49; }
 .prog-item.type-breakout::before { background: #0047BB; }
 .prog-item.type-closing::before  { background: #DA291C; }
 .prog-item.type-break::before    { background: #F4EDE4; border: 2px solid #D8CFC6; }
+.prog-item.type-social::before   { background: #071D49; }
 
 .prog-time {
   font-family: 'Barlow Condensed', sans-serif;
@@ -890,6 +944,7 @@ a:hover { color: #071D49; }
 .type-plenary  .prog-time { color: #685BC7; }
 .type-breakout .prog-time { color: #0047BB; }
 .type-closing  .prog-time { color: #DA291C; }
+.type-social   .prog-time { color: #071D49; }
 
 .prog-tag {
   font-family: 'Barlow Condensed', sans-serif;
@@ -902,6 +957,20 @@ a:hover { color: #071D49; }
 }
 .type-breakout .prog-tag { color: #0047BB; }
 .type-closing  .prog-tag { color: #DA291C; }
+.type-social   .prog-tag { color: #071D49; }
+
+.prog-tba {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: #8C8C8C;
+  border: 1px dashed #D8CFC6;
+  padding: 0.25rem 0.6rem;
+  margin-top: 0.25rem;
+}
 
 .prog-title {
   font-family: 'Barlow Condensed', sans-serif;
@@ -1235,6 +1304,26 @@ a:hover { color: #071D49; }
     margin-left: 0;
     text-align: center;
     padding: 0.6rem 1rem;
+  }
+
+  .support-section {
+    padding: 1.6rem 1rem;
+  }
+  .support-inner {
+    padding: 1.1rem 1.1rem 1.3rem;
+  }
+  .support-inner h2 {
+    font-size: 1.35rem;
+  }
+  .support-inner p {
+    font-size: 0.85rem;
+  }
+  .support-btn {
+    display: block;
+    text-align: center;
+    font-size: 0.8rem;
+    letter-spacing: 0.06em;
+    padding: 0.6rem 0.75rem;
   }
 
   .grit-section {

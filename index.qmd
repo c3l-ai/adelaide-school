@@ -48,6 +48,15 @@ toc: false
   </div>
 </div>
 
+<div class="support-section">
+  <div class="support-inner">
+    <div class="support-eyebrow">ECRs &nbsp;·&nbsp; HDRs &nbsp;·&nbsp; AUGRs</div>
+    <h2>One step to secure your place</h2>
+    <p>If you are an ECR, HDR, or AUGR, all we need to confirm your attendance is an <strong>email letter of support</strong> from your supervisor or line manager.</p>
+    <a class="support-btn" href="mailto:C3L@adelaide.edu.au?subject=Letter%20of%20support%20-%20The%20Adelaide%20School">Send yours to C3L@adelaide.edu.au</a>
+  </div>
+</div>
+
 <div class="info-strip">
   <div class="info-item">
     <span class="info-label">When</span>

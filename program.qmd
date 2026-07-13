@@ -102,6 +102,18 @@ resources:
       </div>
     </div>
 
+    <div class="prog-item type-social">
+      <div class="prog-time">From 6:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Social</div>
+        <div class="prog-title">Dinner &amp; Evening Social</div>
+        <div class="prog-desc">Day One doesn't end when the Showcase does. We'll carry on into the evening over dinner — no agenda, no slides, just the unhurried conversation that the rest of the program is too busy for.</div>
+        <div class="prog-desc">We'll hold a group reservation so there's a table waiting for us. Dinner and drinks are at your own expense — come along for the whole evening or just for a while.</div>
+        <div class="prog-desc">Let us know you're coming by recording your interest when you register on <a href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Humanitix</a>. Already registered and changed your mind — in either direction? Email <a href="mailto:C3L@adelaide.edu.au">C3L@adelaide.edu.au</a> and we'll adjust the booking.</div>
+        <div class="prog-tba">Venue &amp; details TBC</div>
+      </div>
+    </div>
+
   </div>
 </div>
 
@@ -134,8 +146,8 @@ resources:
       <div class="prog-body">
         <div class="prog-tag">Plenary</div>
         <div class="prog-title">Making Sense of Day One — and Navigating the Funding Landscape</div>
-        <div class="prog-desc">We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? Peter Goodyear joins us to share hard-won insight into the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.</div>
-        <div class="prog-speaker">with Peter Goodyear</div>
+        <div class="prog-desc">We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? A session on the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.</div>
+        <div class="prog-speaker">Speaker TBA</div>
       </div>
     </div>
 
