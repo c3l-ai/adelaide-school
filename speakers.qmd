@@ -13,6 +13,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
 ```{=html}
 <div class="speaker-grid">
 
+  <div class="speaker-card" id="reinhard-pekrun">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/pekrun-rinehard.jpg" alt="Reinhard Pekrun">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Reinhard Pekrun</div>
+      <div class="speaker-role">Professor of Psychology, University of Essex; Professorial Fellow, Institute for Positive Psychology and Education, Australian Catholic University</div>
+      <p class="speaker-bio">Reinhard Pekrun is a professor of psychology at the University of Essex, United Kingdom, and a professorial fellow at the Institute for Positive Psychology and Education, Australian Catholic University, Sydney, Australia. His research areas include achievement motivation and emotion, personality development, and educational assessment and evaluation. Pekrun pioneered research on emotions in education and originated the Control-Value Theory of Achievement Emotions. He is a Web of Science Highly Cited Researcher and has authored more than 400 publications. Pekrun received the Diefenbaker Award 2015, the AERA Sylvia Scribner Award 2017, the EARLI Oeuvre Award 2017, the Lifetime Achievement Award 2018 from the German Psychological Society, and the Shavelson Distinguished Researcher and Lifetime Achievement Award 2025.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html">Plenary: Control, Value, and Emotion →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="daniel-ebbert">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/daniel-ebbert.jpg" alt="Daniel Ebbert">
