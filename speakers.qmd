@@ -26,6 +26,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="sam-sellar">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/sam-sellar.jpeg" alt="Sam Sellar">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Sam Sellar</div>
+      <div class="speaker-role">Dean of Research, College of Education, Behavioural and Social Sciences (EBSS); Professor of Education Policy, Adelaide University</div>
+      <p class="speaker-bio">Sam Sellar is Dean of Research in the College of Education, Behavioural and Social Sciences (EBSS) and Professor of Education Policy at Adelaide University. Sam's research focuses on education policy, large-scale assessments and the datafication of education. He is currently co-investigator for an ESRC project investigating digital platforms in higher education (led by Janja Komljenovic, Lancaster University). Sam has published more than 70 books, book chapters and journal articles, and he is Lead Editor of Discourse: Studies in the Cultural Politics of Education. His forthcoming book is Algorithms of Education: How datafication and artificial intelligence shape policy, co-authored with Kalervo N. Gulson and P. Taylor Webb.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html">Plenary: Making Sense of Day One — and Navigating the Funding Landscape →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="daniel-ebbert">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/daniel-ebbert.jpg" alt="Daniel Ebbert">

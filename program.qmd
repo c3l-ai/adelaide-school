@@ -147,7 +147,7 @@ resources:
         <div class="prog-tag">Plenary</div>
         <div class="prog-title">Making Sense of Day One — and Navigating the Funding Landscape</div>
         <div class="prog-desc">We open Day Two with structured reflection on what surfaced yesterday, then shift to one of the most practical questions in academic life: how do you fund the work that matters? A session on the ARC landscape — what reviewers actually look for, how to position your work, and where early-career researchers tend to lose points.</div>
-        <div class="prog-speaker">Speaker TBA</div>
+        <div class="prog-speaker">With Sam Sellar</div>
       </div>
     </div>
 
