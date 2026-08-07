@@ -164,7 +164,7 @@ resources:
         <div class="prog-tag">Panel Discussion</div>
         <div class="prog-title">Three Speeds of AI Literacy: Global, National, Local</div>
         <div class="prog-desc">Join us to discuss how AI literacy is unfolding at three speeds at once — global research setting the agenda, national frameworks translating it into policy, and schools working out what it means day to day. This panel brings those layers into the same conversation: where they align, where they pull apart, and what it takes to close the gap.</div>
-        <div class="prog-speaker">With Melanie Hughes</div>
+        <div class="prog-speaker">With Melanie Hughes, and more to follow...</div>
       </div>
     </div>
 
