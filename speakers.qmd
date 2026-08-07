@@ -39,6 +39,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="melanie-hughes">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/melanie-hughes.png" alt="Melanie Hughes">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Melanie Hughes</div>
+      <div class="speaker-role">Curriculum Specialist, Technologies, Australian Curriculum, Assessment and Reporting Authority (ACARA)</div>
+      <p class="speaker-bio">Melanie Hughes is Curriculum Specialist, Technologies at the Australian Curriculum, Assessment and Reporting Authority (ACARA), where she leads the Australian Curriculum: Technologies — spanning Design and Technologies, Digital Technologies, and the Digital Literacy capability. An experienced Primary and Secondary teacher, she has worked across cross-sectoral technologies projects, served as a board member of ICTENSW, and was Senior Project Officer for ACARA's Digital Technologies in Focus project. Her career spans classroom teaching, curriculum leadership, and technologies integration, including roles as Education Consultant: Technologies and STEM with AISNSW and Senior Education Specialist: Technologies and STEM at the Australian Academy of Science.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="daniel-ebbert">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/daniel-ebbert.jpg" alt="Daniel Ebbert">
