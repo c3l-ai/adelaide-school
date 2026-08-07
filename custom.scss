@@ -531,20 +531,97 @@ h1, h2, h3, h4 {
 
 /* Session cards */
 .card-session {
-  border: none;
+  position: relative;
+  border: 1px solid #D8CFC6;
   border-left: 3px solid #685BC7;
-  background: #F4EDE4;
-  padding: 1.4rem 1.6rem;
-  margin-bottom: 1.25rem;
+  background: #fff;
+  padding: 1.4rem 4rem 1.4rem 1.6rem;
+  margin-bottom: 1rem;
   border-radius: 0;
+  counter-increment: sessioncard;
+  transition: background 0.15s, box-shadow 0.15s;
+}
+.card-session:hover {
+  background: #F4EDE4;
+  box-shadow: 0 6px 14px rgba(7, 29, 73, 0.07);
+}
+/* Numbering restarts per track so it matches the 01.. run in the glance grid */
+section.track-header { counter-reset: sessioncard; }
+.card-session::before {
+  content: counter(sessioncard, decimal-leading-zero);
+  position: absolute;
+  top: 1rem;
+  right: 1.3rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+  line-height: 1;
+  color: #071D49;
+  opacity: 0.1;
 }
 .card-session h3 {
-  font-size: 1.1rem;
-  margin-bottom: 0.3rem;
+  font-size: 1.25rem;
+  margin-bottom: 0.2rem;
   color: #071D49;
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 700;
   letter-spacing: 0.02em;
+  line-height: 1.25;
+}
+.card-session p {
+  margin-bottom: 0;
+  max-width: 62ch;
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: #3d4757;
+}
+/* The presenter sits in its own paragraph; space it there so the margin
+   can't collapse out through the wrapping <p>. */
+.card-session > p:first-of-type { margin-bottom: 0.75rem; }
+.session-presenter {
+  display: block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.11em;
+  text-transform: uppercase;
+}
+.track-ai .session-presenter { color: #0047BB; }
+.track-ls .session-presenter { color: #685BC7; }
+/* Room chips - the room numbers themselves live in _variables.yml.
+   `.room-val` is dashed while the values are still TBC; switch it to solid
+   once real room numbers are in so it stops reading as pending. */
+.card-session > p:last-of-type { margin-top: 1rem; }
+.room-day,
+.room-val {
+  display: inline-block;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  padding: 0.25rem 0.55rem;
+  vertical-align: middle;
+  line-height: 1.3;
+}
+.room-day { color: #fff; }
+.track-ai .room-day { background: #0047BB; }
+.track-ls .room-day { background: #685BC7; }
+.room-val {
+  color: #8C8C8C;
+  background: #fff;
+  border: 1px dashed #D8CFC6;
+  border-left: none;
+}
+/* Separates the Day 2 chip from the Day 1 chip without splitting either pair */
+.room-val + .room-day { margin-left: 0.6rem; }
+
+/* Track lead-in sits between the header rule and the first card */
+section.track-header > p {
+  font-size: 0.95rem;
+  color: #5a6472;
+  max-width: 62ch;
+  margin-bottom: 1.5rem;
 }
 .time-badge {
   font-family: 'Barlow Condensed', sans-serif;
@@ -730,14 +807,14 @@ a:hover { color: #071D49; }
 .glance-track.ai { background: #0047BB; color: #fff; }
 .glance-track.ls { background: #685BC7; color: #fff; }
 
-/* Sessions at a glance - two-column card grid */
-.glance-grid {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: 1.5rem;
+/* Sessions at a glance - stacked track blocks, each an auto-fill card grid */
+.glance-tracks {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
   margin-bottom: 3rem;
 }
-.glance-track-col {
+.glance-track-block {
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
@@ -763,18 +840,39 @@ a:hover { color: #071D49; }
   color: #fff;
 }
 .glance-track-icon { font-size: 1rem; }
+.glance-track-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 0.75rem;
+}
 .glance-card {
+  position: relative;
   display: block;
-  padding: 0.75rem 1rem;
+  padding: 0.75rem 2.4rem 0.75rem 1rem;
   background: #fff;
   border: 1px solid #D8CFC6;
   border-left: 3px solid transparent;
   text-decoration: none;
-  transition: all 0.15s;
+  transition: background 0.15s, transform 0.15s, box-shadow 0.15s;
 }
 .glance-card.ai { border-left-color: #0047BB; }
 .glance-card.ls { border-left-color: #685BC7; }
-.glance-card:hover { background: #F4EDE4; text-decoration: none; }
+.glance-card:hover {
+  background: #F4EDE4;
+  text-decoration: none;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 14px rgba(7, 29, 73, 0.08);
+}
+.glance-card-num {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.7rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 1.3rem;
+  color: #071D49;
+  opacity: 0.12;
+}
 .glance-card-title {
   font-family: 'Barlow Condensed', sans-serif;
   font-weight: 700;
@@ -789,6 +887,31 @@ a:hover { color: #071D49; }
   color: #685BC7;
   font-weight: 400;
 }
+.glance-card-teaser {
+  font-family: 'Roboto Serif', serif;
+  font-size: 0.78rem;
+  color: #555;
+  line-height: 1.4;
+  margin-top: 0.35rem;
+}
+
+/* Track headers on the full session sections below - echo the glance header identity */
+h2.track-header {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  border-bottom: 2px solid;
+  padding-bottom: 0.6rem;
+  margin: 2.5rem 0 1.5rem;
+}
+h2.track-header.ai { border-bottom-color: #0047BB; }
+h2.track-header.ls { border-bottom-color: #685BC7; }
+h2.track-header::before {
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+h2.track-header.ai::before { content: "⚙"; color: #0047BB; }
+h2.track-header.ls::before { content: "◈"; color: #685BC7; }
 
 /* ── Program page ── */
 .program-intro {
@@ -1348,12 +1471,11 @@ a:hover { color: #071D49; }
   .supporter img { width: 150px; }
   .supporter-ascilite { width: 170px; }
 
-  .glance-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
+  .glance-tracks {
+    gap: 1.5rem;
     margin-bottom: 2rem;
   }
-  .glance-track-col {
+  .glance-track-block {
     gap: 0.5rem;
   }
   .glance-track-header {
@@ -1364,9 +1486,13 @@ a:hover { color: #071D49; }
     font-size: 0.72rem;
     letter-spacing: 0.1em;
   }
+  .glance-track-grid {
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
   .glance-card {
     position: relative;
-    padding: 0.8rem 0.85rem 0.85rem 1rem;
+    padding: 0.8rem 2.2rem 0.85rem 1rem;
     background: #fff;
     border: 1px solid #D8CFC6;
     border-left-width: 4px;
@@ -1379,6 +1505,23 @@ a:hover { color: #071D49; }
   .glance-card-presenter {
     font-size: 0.76rem;
     color: #071D49;
+  }
+  .glance-card-teaser {
+    font-size: 0.76rem;
+  }
+  h2.track-header {
+    margin: 2rem 0 1.25rem;
+  }
+  .card-session {
+    padding: 1.1rem 2.6rem 1.1rem 1.1rem;
+  }
+  .card-session h3 {
+    font-size: 1.1rem;
+  }
+  .card-session::before {
+    font-size: 1.5rem;
+    top: 0.8rem;
+    right: 0.9rem;
   }
 
   .program-intro {

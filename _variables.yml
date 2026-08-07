@@ -1,0 +1,51 @@
+# Room allocations for the workshop sessions.
+#
+# Each session runs twice in different buildings, so it has two rooms:
+#   day1 - Nov 12, Pridham Hall     (the workshop itself, Breakout I & II)
+#   day2 - Nov 13, Brookman Hall    (the Open Gallery station)
+#
+# Replace TBC with the room number as allocations come through. Nothing else
+# needs editing - sessions.qmd pulls these in via {{< var rooms.<key>.day1 >}}.
+# Once the numbers are real you may want to swap the dashed border on
+# `.room-val` in custom.scss to solid, so they stop reading as pending.
+
+rooms:
+  # ── AI & Tools track ──
+  ai_assistant:          # Build Your Own AI Research Assistant
+    day1: TBC
+    day2: TBC
+  deploy_agent:          # Deploy Your AI Agent: From Prototype to Practice
+    day1: TBC
+    day2: TBC
+  evaluating_agents:     # Evaluating AI Agents: How Do You Know It's Working?
+    day1: TBC
+    day2: TBC
+  coding_qualitative:    # Coding Qualitative Data with AI
+    day1: TBC
+    day2: TBC
+
+  # ── Learning Sciences, Data & Methods track ──
+  qualitative_cresi:     # The State of Qualitative Research: Perspectives from CRESI
+    day1: TBC
+    day2: TBC
+  dispositions_k12:      # A Working Prototype for Real-Time Surfacing of Learning Dispositions
+    day1: TBC
+    day2: TBC
+  leading_academia:      # Leading in Academia: Building Partnerships
+    day1: TBC
+    day2: TBC
+  self_regulation:       # Tracing Self-Regulation: Analysing Process Data
+    day1: TBC
+    day2: TBC
+  research_instrument:   # Designing Your Research Instrument: From Construct to Question
+    day1: TBC
+    day2: TBC
+  measuring_validity:    # What Are We Actually Measuring? Validity, Constructs
+    day1: TBC
+    day2: TBC
+  data_ethics:           # Data Ethics in Education: Consent, Privacy
+    day1: TBC
+    day2: TBC
+  mixed_effects:         # Mixed-Effects Modelling for Education Researchers
+    day1: TBC
+    day2: TBC
