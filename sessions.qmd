@@ -1,6 +1,5 @@
 ---
 title: "Sessions"
-toc: false
 ---
 
 All sessions run on Day One as extended three-hour workshops across two blocks. Choose one and stay with it — the format is designed for depth. Day Two's Open Gallery lets you revisit any session you missed.
