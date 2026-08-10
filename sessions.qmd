@@ -81,7 +81,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       <a class="glance-card ls" href="#designing-your-research-instrument-from-construct-to-question">
         <span class="glance-card-num">05</span>
         <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
-        <div class="glance-card-presenter">Phuong Pham &amp; Oscar Deho</div>
+        <div class="glance-card-presenter">Phuong Pham</div>
         <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
       </a>
       <a class="glance-card ls" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
@@ -93,7 +93,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       <a class="glance-card ls" href="#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">
         <span class="glance-card-num">07</span>
         <div class="glance-card-title">Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</div>
-        <div class="glance-card-presenter">TBC</div>
+        <div class="glance-card-presenter">Oscar Deho</div>
         <div class="glance-card-teaser">Consent, sovereignty, and what responsible data-intensive research looks like.</div>
       </a>
       <a class="glance-card ls" href="#mixed-effects-modelling-for-education-researchers-a-practical-introduction">
@@ -190,7 +190,7 @@ Self-regulated learning is one of the most studied constructs in educational psy
 
 ::: {.card-session .track-ls}
 ### Designing Your Research Instrument: From Construct to Question
-[Phuong Pham & Oscar Deho]{.session-presenter}
+[Phuong Pham]{.session-presenter}
 
 A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
 
@@ -208,7 +208,7 @@ Measurement in education is harder than it looks. This session takes seriously t
 
 ::: {.card-session .track-ls}
 ### Data Ethics in Education: Consent, Privacy, and the Datafication of Learning
-[TBC]{.session-presenter}
+[Oscar Deho]{.session-presenter}
 
 As education becomes more data-rich, the ethical stakes rise. This session examines the practical and philosophical dimensions of data ethics in educational research — informed consent, data sovereignty, the risks of surveillance, and what it means to do data-intensive research responsibly.
 

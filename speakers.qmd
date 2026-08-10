@@ -74,7 +74,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Postdoctoral Research Fellow, C3L, Adelaide University</div>
       <p class="speaker-bio">Oscar Blessed Deho is a Postdoctoral Research Fellow at the Centre for Change and Complexity in Learning (C3L), Adelaide University. His research spans ethical AI, learning analytics, and trustworthy data science. He develops fair, explainable predictive models for education, studying how bias emerges and can be mitigated without sacrificing utility. Oscar also investigates the privacy, utility, fairness, and fidelity of synthetic data generation, aiming to enable safe sharing and reuse of sensitive educational and institutional data. His work bridges algorithmic fairness, data governance, and responsible AI to support transparent, equitable, and privacy-preserving decision-making in learning systems and beyond.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#designing-your-research-instrument-from-construct-to-question">Designing Your Research Instrument →</a>
+      <a class="speaker-link" href="sessions.html#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">Data Ethics in Education →</a>
     </div>
   </div>
 
