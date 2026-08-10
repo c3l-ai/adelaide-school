@@ -26,19 +26,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
-  <div class="speaker-card" id="sam-sellar">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/sam-sellar.jpeg" alt="Sam Sellar">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Sam Sellar</div>
-      <div class="speaker-role">Dean of Research, College of Education, Behavioural and Social Sciences (EBSS); Professor of Education Policy, Adelaide University</div>
-      <p class="speaker-bio">Sam Sellar is Dean of Research in the College of Education, Behavioural and Social Sciences (EBSS) and Professor of Education Policy at Adelaide University. Sam's research focuses on education policy, large-scale assessments and the datafication of education. He is currently co-investigator for an ESRC project investigating digital platforms in higher education (led by Janja Komljenovic, Lancaster University). Sam has published more than 70 books, book chapters and journal articles, and he is Lead Editor of Discourse: Studies in the Cultural Politics of Education. His forthcoming book is Algorithms of Education: How datafication and artificial intelligence shape policy, co-authored with Kalervo N. Gulson and P. Taylor Webb.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html">Plenary: Making Sense of Day One — and Navigating the Funding Landscape →</a>
-    </div>
-  </div>
-
   <div class="speaker-card" id="melanie-hughes">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/melanie-hughes.png" alt="Melanie Hughes">
@@ -49,6 +36,32 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Melanie Hughes is Curriculum Specialist, Technologies at the Australian Curriculum, Assessment and Reporting Authority (ACARA), where she leads the Australian Curriculum: Technologies — spanning Design and Technologies, Digital Technologies, and the Digital Literacy capability. An experienced Primary and Secondary teacher, she has worked across cross-sectoral technologies projects, served as a board member of ICTENSW, and was Senior Project Officer for ACARA's Digital Technologies in Focus project. Her career spans classroom teaching, curriculum leadership, and technologies integration, including roles as Education Consultant: Technologies and STEM with AISNSW and Senior Education Specialist: Technologies and STEM at the Australian Academy of Science.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="mutlu-cukurova">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/mutlu-cukurova.jpg" alt="Mutlu Cukurova">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Mutlu Cukurova</div>
+      <div class="speaker-role">Professor of Learning and Artificial Intelligence, UCL Knowledge Lab, University College London</div>
+      <p class="speaker-bio">Mutlu Cukurova is Professor of Learning and Artificial Intelligence at the UCL Knowledge Lab, University College London, where he directs the UCLAIT research group and is affiliated with the UCL Centre for Artificial Intelligence. His work spans human–AI complementarity, multimodal learning analytics, and AI in education, comprising some 220 publications and over 17K citations. Editor-in-Chief of the British Journal of Educational Technology, he advises UNESCO, the OECD, the World Bank, and the European Commission, and co-authored the UNESCO AI Competency Framework for Teachers.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="sam-sellar">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/sam-sellar.jpeg" alt="Sam Sellar">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Sam Sellar</div>
+      <div class="speaker-role">Dean of Research, College of Education, Behavioural and Social Sciences (EBSS); Professor of Education Policy, Adelaide University</div>
+      <p class="speaker-bio">Sam Sellar is Dean of Research in the College of Education, Behavioural and Social Sciences (EBSS) and Professor of Education Policy at Adelaide University. Sam's research focuses on education policy, large-scale assessments and the datafication of education. He is currently co-investigator for an ESRC project investigating digital platforms in higher education (led by Janja Komljenovic, Lancaster University). Sam has published more than 70 books, book chapters and journal articles, and he is Lead Editor of Discourse: Studies in the Cultural Politics of Education. His forthcoming book is Algorithms of Education: How datafication and artificial intelligence shape policy, co-authored with Kalervo N. Gulson and P. Taylor Webb.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html">Plenary: Making Sense of Day One — and Navigating the Funding Landscape →</a>
     </div>
   </div>
 
