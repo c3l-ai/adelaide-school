@@ -26,19 +26,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
-  <div class="speaker-card" id="melanie-hughes">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/melanie-hughes.png" alt="Melanie Hughes">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Melanie Hughes</div>
-      <div class="speaker-role">Curriculum Specialist, Technologies, Australian Curriculum, Assessment and Reporting Authority (ACARA)</div>
-      <p class="speaker-bio">Melanie Hughes is Curriculum Specialist, Technologies at the Australian Curriculum, Assessment and Reporting Authority (ACARA), where she leads the Australian Curriculum: Technologies — spanning Design and Technologies, Digital Technologies, and the Digital Literacy capability. An experienced Primary and Secondary teacher, she has worked across cross-sectoral technologies projects, served as a board member of ICTENSW, and was Senior Project Officer for ACARA's Digital Technologies in Focus project. Her career spans classroom teaching, curriculum leadership, and technologies integration, including roles as Education Consultant: Technologies and STEM with AISNSW and Senior Education Specialist: Technologies and STEM at the Australian Academy of Science.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
-    </div>
-  </div>
-
   <div class="speaker-card" id="mutlu-cukurova">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/mutlu-cukurova.jpg" alt="Mutlu Cukurova">
@@ -47,6 +34,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-name">Mutlu Cukurova</div>
       <div class="speaker-role">Professor of Learning and Artificial Intelligence, UCL Knowledge Lab, University College London</div>
       <p class="speaker-bio">Mutlu Cukurova is Professor of Learning and Artificial Intelligence at the UCL Knowledge Lab, University College London, where he directs the UCLAIT research group and is affiliated with the UCL Centre for Artificial Intelligence. His work spans human–AI complementarity, multimodal learning analytics, and AI in education, comprising some 220 publications and over 17K citations. Editor-in-Chief of the British Journal of Educational Technology, he advises UNESCO, the OECD, the World Bank, and the European Commission, and co-authored the UNESCO AI Competency Framework for Teachers.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="melanie-hughes">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/melanie-hughes.png" alt="Melanie Hughes">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Melanie Hughes</div>
+      <div class="speaker-role">Curriculum Specialist, Technologies, Australian Curriculum, Assessment and Reporting Authority (ACARA)</div>
+      <p class="speaker-bio">Melanie Hughes is Curriculum Specialist, Technologies at the Australian Curriculum, Assessment and Reporting Authority (ACARA), where she leads the Australian Curriculum: Technologies — spanning Design and Technologies, Digital Technologies, and the Digital Literacy capability. An experienced Primary and Secondary teacher, she has worked across cross-sectoral technologies projects, served as a board member of ICTENSW, and was Senior Project Officer for ACARA's Digital Technologies in Focus project. Her career spans classroom teaching, curriculum leadership, and technologies integration, including roles as Education Consultant: Technologies and STEM with AISNSW and Senior Education Specialist: Technologies and STEM at the Australian Academy of Science.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
     </div>
@@ -62,32 +62,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Sam Sellar is Dean of Research in the College of Education, Behavioural and Social Sciences (EBSS) and Professor of Education Policy at Adelaide University. Sam's research focuses on education policy, large-scale assessments and the datafication of education. He is currently co-investigator for an ESRC project investigating digital platforms in higher education (led by Janja Komljenovic, Lancaster University). Sam has published more than 70 books, book chapters and journal articles, and he is Lead Editor of Discourse: Studies in the Cultural Politics of Education. His forthcoming book is Algorithms of Education: How datafication and artificial intelligence shape policy, co-authored with Kalervo N. Gulson and P. Taylor Webb.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="program.html">Plenary: Making Sense of Day One — and Navigating the Funding Landscape →</a>
-    </div>
-  </div>
-
-  <div class="speaker-card" id="daniel-ebbert">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/daniel-ebbert.jpg" alt="Daniel Ebbert">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Daniel Ebbert</div>
-      <div class="speaker-role">Research Fellow, C3L, Adelaide University</div>
-      <p class="speaker-bio">Daniel Ebbert is a Research Fellow at Adelaide University's Centre for Change and Complexity in Learning. In his doctoral research, he explored the intersection of self-regulated learning and mind wandering during video-based learning, specifically examining how learners adapt their learning processes after recognising mind wandering episodes. This research aimed to develop evidence-based recommendations for effective responses to mind wandering during learning. Following his PhD, he has begun researching educational technology to support cognitive and metacognitive processes during learning.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#build-your-own-ai-research-assistant">Build Your Own AI Research Assistant →</a>
-    </div>
-  </div>
-
-  <div class="speaker-card" id="oscar-deho">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/oscar-deho.jpg" alt="Oscar Blessed Deho">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Oscar Blessed Deho</div>
-      <div class="speaker-role">Postdoctoral Research Fellow, C3L, Adelaide University</div>
-      <p class="speaker-bio">Oscar Blessed Deho is a Postdoctoral Research Fellow at the Centre for Change and Complexity in Learning (C3L), Adelaide University. His research spans ethical AI, learning analytics, and trustworthy data science. He develops fair, explainable predictive models for education, studying how bias emerges and can be mitigated without sacrificing utility. Oscar also investigates the privacy, utility, fairness, and fidelity of synthetic data generation, aiming to enable safe sharing and reuse of sensitive educational and institutional data. His work bridges algorithmic fairness, data governance, and responsible AI to support transparent, equitable, and privacy-preserving decision-making in learning systems and beyond.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">Data Ethics in Education →</a>
     </div>
   </div>
 
@@ -127,6 +101,45 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Professor Vitomir Kovanovic is Associate Director (Research Excellence and Communication) at the Centre for Change and Complexity in Learning (C3L) at the Adelaide University. His research focuses on Learning Analytics and Artificial Intelligence in Education, with the goal of developing new tools and systems to improve student learning. Recently, Prof Kovanovic has been leading the development of the Chatmate platform, an educational AI tool used at Adelaide University and several other schools and universities. He is also the Editor-in-Chief of the Journal of Learning Analytics (JLA) and an Associate Editor at the Higher Education Research &amp; Development (HERD) Journal.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#deploy-your-ai-agent-from-prototype-to-practice">Deploy Your AI Agent →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="srecko-joksimovic">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/srecko-joksimovic.jpg" alt="Srecko Joksimovic">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Srecko Joksimovic</div>
+      <div class="speaker-role">Professor &amp; Co-Director, C3L, Adelaide University</div>
+      <p class="speaker-bio">Prof Srecko Joksimovic is a researcher in learning analytics, learning sciences, and artificial intelligence in education, and Co-Director of the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His research focuses on the design and use of digital technologies and AI to support learning, collaboration, and human development. His recent work places particular emphasis on metacognition and on understanding how learners monitor, regulate, and reflect on their thinking and learning. He is especially interested in how AI can support these processes through meaningful human-AI interaction, personalised learning, and the analysis of complex learning environments.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#evaluating-ai-agents-how-do-you-know-its-working">Evaluating AI Agents →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="oscar-deho">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/oscar-deho.jpg" alt="Oscar Blessed Deho">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Oscar Blessed Deho</div>
+      <div class="speaker-role">Postdoctoral Research Fellow, C3L, Adelaide University</div>
+      <p class="speaker-bio">Oscar Blessed Deho is a Postdoctoral Research Fellow at the Centre for Change and Complexity in Learning (C3L), Adelaide University. His research spans ethical AI, learning analytics, and trustworthy data science. He develops fair, explainable predictive models for education, studying how bias emerges and can be mitigated without sacrificing utility. Oscar also investigates the privacy, utility, fairness, and fidelity of synthetic data generation, aiming to enable safe sharing and reuse of sensitive educational and institutional data. His work bridges algorithmic fairness, data governance, and responsible AI to support transparent, equitable, and privacy-preserving decision-making in learning systems and beyond.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">Data Ethics in Education →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="daniel-ebbert">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/daniel-ebbert.jpg" alt="Daniel Ebbert">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Daniel Ebbert</div>
+      <div class="speaker-role">Research Fellow, C3L, Adelaide University</div>
+      <p class="speaker-bio">Daniel Ebbert is a Research Fellow at Adelaide University's Centre for Change and Complexity in Learning. In his doctoral research, he explored the intersection of self-regulated learning and mind wandering during video-based learning, specifically examining how learners adapt their learning processes after recognising mind wandering episodes. This research aimed to develop evidence-based recommendations for effective responses to mind wandering during learning. Following his PhD, he has begun researching educational technology to support cognitive and metacognitive processes during learning.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#build-your-own-ai-research-assistant">Build Your Own AI Research Assistant →</a>
     </div>
   </div>
 
@@ -182,18 +195,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
-  <div class="speaker-card" id="srecko-joksimovic">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/srecko-joksimovic.jpg" alt="Srecko Joksimovic">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Srecko Joksimovic</div>
-      <div class="speaker-role">Professor &amp; Co-Director, C3L, Adelaide University</div>
-      <p class="speaker-bio">Prof Srecko Joksimovic is a researcher in learning analytics, learning sciences, and artificial intelligence in education, and Co-Director of the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His research focuses on the design and use of digital technologies and AI to support learning, collaboration, and human development. His recent work places particular emphasis on metacognition and on understanding how learners monitor, regulate, and reflect on their thinking and learning. He is especially interested in how AI can support these processes through meaningful human-AI interaction, personalised learning, and the analysis of complex learning environments.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#evaluating-ai-agents-how-do-you-know-its-working">Evaluating AI Agents →</a>
-    </div>
-  </div>
 
 </div>
 
