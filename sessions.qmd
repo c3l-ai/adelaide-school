@@ -51,7 +51,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
   <div class="glance-track-block">
     <div class="glance-track-header ls">
       <span class="glance-track-icon">◈</span>
-      Learning Sciences, Data &amp; Methods
+      Learning Sciences &amp; Practice
     </div>
     <div class="glance-track-grid">
       <a class="glance-card ls" href="#the-state-of-qualitative-research-perspectives-from-cresi">
@@ -72,32 +72,41 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Maria Vieira, Rebecca Marrone &amp; Shane Dawson</div>
         <div class="glance-card-teaser">What it takes to build and sustain partnerships beyond the university.</div>
       </a>
-      <a class="glance-card ls" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
-        <span class="glance-card-num">04</span>
-        <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
-        <div class="glance-card-presenter">Flora Jin</div>
-        <div class="glance-card-teaser">Moving beyond self-report with temporal and sequential analysis.</div>
-      </a>
-      <a class="glance-card ls" href="#designing-your-research-instrument-from-construct-to-question">
-        <span class="glance-card-num">05</span>
-        <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
-        <div class="glance-card-presenter">Phuong Pham</div>
-        <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
-      </a>
-      <a class="glance-card ls" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
-        <span class="glance-card-num">06</span>
-        <div class="glance-card-title">What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</div>
-        <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
-        <div class="glance-card-teaser">Construct validity and the gap between what we measure and what we care about.</div>
-      </a>
       <a class="glance-card ls" href="#data-ethics-in-education-consent-privacy-and-the-datafication-of-learning">
-        <span class="glance-card-num">07</span>
+        <span class="glance-card-num">04</span>
         <div class="glance-card-title">Data Ethics in Education: Consent, Privacy, and the Datafication of Learning</div>
         <div class="glance-card-presenter">Oscar Deho</div>
         <div class="glance-card-teaser">Consent, sovereignty, and what responsible data-intensive research looks like.</div>
       </a>
-      <a class="glance-card ls" href="#mixed-effects-modelling-for-education-researchers-a-practical-introduction">
-        <span class="glance-card-num">08</span>
+    </div>
+  </div>
+
+  <div class="glance-track-block">
+    <div class="glance-track-header mm">
+      <span class="glance-track-icon">▦</span>
+      Methods, Measurement &amp; Analytics
+    </div>
+    <div class="glance-track-grid">
+      <a class="glance-card mm" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
+        <span class="glance-card-num">01</span>
+        <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
+        <div class="glance-card-presenter">Flora Jin</div>
+        <div class="glance-card-teaser">Moving beyond self-report with temporal and sequential analysis.</div>
+      </a>
+      <a class="glance-card mm" href="#designing-your-research-instrument-from-construct-to-question">
+        <span class="glance-card-num">02</span>
+        <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
+        <div class="glance-card-presenter">Phuong Pham</div>
+        <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
+      </a>
+      <a class="glance-card mm" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
+        <span class="glance-card-num">03</span>
+        <div class="glance-card-title">What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data</div>
+        <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
+        <div class="glance-card-teaser">Construct validity and the gap between what we measure and what we care about.</div>
+      </a>
+      <a class="glance-card mm" href="#mixed-effects-modelling-for-education-researchers-a-practical-introduction">
+        <span class="glance-card-num">04</span>
         <div class="glance-card-title">Mixed-Effects Modelling for Education Researchers: A Practical Introduction</div>
         <div class="glance-card-presenter">TBC</div>
         <div class="glance-card-teaser">Models built for nested educational data, worked through with real examples.</div>
@@ -148,9 +157,9 @@ AI tools are changing how qualitative researchers work with data — but not alw
 [[Day 1]{.room-day}[{{< var rooms.coding_qualitative.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.coding_qualitative.day2 >}}]{.room-val}]{.session-rooms}
 :::
 
-## Learning Sciences, Data & Methods Track {.track-header .ls}
+## Learning Sciences & Practice Track {.track-header .ls}
 
-Sessions in this track are substantive and research-facing. They address conceptual and methodological questions at the heart of learning sciences and educational research.
+Sessions in this track are substantive and research-facing — grounded in learning theory, classroom practice, and the partnerships and ethics that shape real-world educational research.
 
 ::: {.card-session .track-ls}
 ### The State of Qualitative Research: Perspectives from CRESI
@@ -180,33 +189,6 @@ Research that matters usually involves partners outside the university. This ses
 :::
 
 ::: {.card-session .track-ls}
-### Tracing Self-Regulation: Analysing Process Data in Learning Research
-[Flora Jin]{.session-presenter}
-
-Self-regulated learning is one of the most studied constructs in educational psychology — and one of the hardest to measure well. This session focuses on process data approaches: how to move beyond self-report, what temporal and sequential analyses can reveal, and what the data can and cannot tell you about how learners actually regulate.
-
-[[Day 1]{.room-day}[{{< var rooms.self_regulation.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.self_regulation.day2 >}}]{.room-val}]{.session-rooms}
-:::
-
-::: {.card-session .track-ls}
-### Designing Your Research Instrument: From Construct to Question
-[Phuong Pham]{.session-presenter}
-
-A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
-
-[[Day 1]{.room-day}[{{< var rooms.research_instrument.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.research_instrument.day2 >}}]{.room-val}]{.session-rooms}
-:::
-
-::: {.card-session .track-ls}
-### What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data
-[Florence Gabriel & Abhinava Barthakur]{.session-presenter}
-
-Measurement in education is harder than it looks. This session takes seriously the question of what it means to measure learning, engagement, anxiety, or wellbeing — examining construct validity, the gap between what we measure and what we care about, and what good measurement practice looks like in practice.
-
-[[Day 1]{.room-day}[{{< var rooms.measuring_validity.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.measuring_validity.day2 >}}]{.room-val}]{.session-rooms}
-:::
-
-::: {.card-session .track-ls}
 ### Data Ethics in Education: Consent, Privacy, and the Datafication of Learning
 [Oscar Deho]{.session-presenter}
 
@@ -215,7 +197,38 @@ As education becomes more data-rich, the ethical stakes rise. This session exami
 [[Day 1]{.room-day}[{{< var rooms.data_ethics.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.data_ethics.day2 >}}]{.room-val}]{.session-rooms}
 :::
 
-::: {.card-session .track-ls}
+## Methods, Measurement & Analytics Track {.track-header .mm}
+
+Sessions in this track are hands-on and technical. They work through the methods, measurement, and analytics that turn messy educational data into defensible findings.
+
+::: {.card-session .track-mm}
+### Tracing Self-Regulation: Analysing Process Data in Learning Research
+[Flora Jin]{.session-presenter}
+
+Self-regulated learning is one of the most studied constructs in educational psychology — and one of the hardest to measure well. This session focuses on process data approaches: how to move beyond self-report, what temporal and sequential analyses can reveal, and what the data can and cannot tell you about how learners actually regulate.
+
+[[Day 1]{.room-day}[{{< var rooms.self_regulation.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.self_regulation.day2 >}}]{.room-val}]{.session-rooms}
+:::
+
+::: {.card-session .track-mm}
+### Designing Your Research Instrument: From Construct to Question
+[Phuong Pham]{.session-presenter}
+
+A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
+
+[[Day 1]{.room-day}[{{< var rooms.research_instrument.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.research_instrument.day2 >}}]{.room-val}]{.session-rooms}
+:::
+
+::: {.card-session .track-mm}
+### What Are We Actually Measuring? Validity, Constructs, and the Hard Problem of Learning Data
+[Florence Gabriel & Abhinava Barthakur]{.session-presenter}
+
+Measurement in education is harder than it looks. This session takes seriously the question of what it means to measure learning, engagement, anxiety, or wellbeing — examining construct validity, the gap between what we measure and what we care about, and what good measurement practice looks like in practice.
+
+[[Day 1]{.room-day}[{{< var rooms.measuring_validity.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.measuring_validity.day2 >}}]{.room-val}]{.session-rooms}
+:::
+
+::: {.card-session .track-mm}
 ### Mixed-Effects Modelling for Education Researchers: A Practical Introduction
 [TBC]{.session-presenter}
 

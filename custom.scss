@@ -588,6 +588,7 @@ section.track-header { counter-reset: sessioncard; }
 }
 .track-ai .session-presenter { color: #0047BB; }
 .track-ls .session-presenter { color: #685BC7; }
+.track-mm .session-presenter { color: #DA291C; }
 /* Room chips - the room numbers themselves live in _variables.yml.
    `.room-val` is dashed while the values are still TBC; switch it to solid
    once real room numbers are in so it stops reading as pending. */
@@ -607,6 +608,7 @@ section.track-header { counter-reset: sessioncard; }
 .room-day { color: #fff; }
 .track-ai .room-day { background: #0047BB; }
 .track-ls .room-day { background: #685BC7; }
+.track-mm .room-day { background: #DA291C; }
 .room-val {
   color: #8C8C8C;
   background: #fff;
@@ -634,6 +636,7 @@ section.track-header > p {
 }
 .track-ai { border-left-color: #0047BB; }
 .track-ls { border-left-color: #685BC7; }
+.track-mm { border-left-color: #DA291C; }
 
 .day-header {
   font-family: 'Barlow Condensed', sans-serif;
@@ -806,6 +809,7 @@ a:hover { color: #071D49; }
 }
 .glance-track.ai { background: #0047BB; color: #fff; }
 .glance-track.ls { background: #685BC7; color: #fff; }
+.glance-track.mm { background: #DA291C; color: #fff; }
 
 /* Sessions at a glance - stacked track blocks, each an auto-fill card grid */
 .glance-tracks {
@@ -839,6 +843,10 @@ a:hover { color: #071D49; }
   background: #685BC7;
   color: #fff;
 }
+.glance-track-header.mm {
+  background: #DA291C;
+  color: #fff;
+}
 .glance-track-icon { font-size: 1rem; }
 .glance-track-grid {
   display: grid;
@@ -857,6 +865,7 @@ a:hover { color: #071D49; }
 }
 .glance-card.ai { border-left-color: #0047BB; }
 .glance-card.ls { border-left-color: #685BC7; }
+.glance-card.mm { border-left-color: #DA291C; }
 .glance-card:hover {
   background: #F4EDE4;
   text-decoration: none;
@@ -906,12 +915,14 @@ h2.track-header {
 }
 h2.track-header.ai { border-bottom-color: #0047BB; }
 h2.track-header.ls { border-bottom-color: #685BC7; }
+h2.track-header.mm { border-bottom-color: #DA291C; }
 h2.track-header::before {
   font-size: 1.1rem;
   font-weight: 400;
 }
 h2.track-header.ai::before { content: "⚙"; color: #0047BB; }
 h2.track-header.ls::before { content: "◈"; color: #685BC7; }
+h2.track-header.mm::before { content: "▦"; color: #DA291C; }
 
 /* ── Program page ── */
 .program-intro {

@@ -52,6 +52,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="lisa-lim">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/lisa-lim.jpg" alt="Lisa-Angelique Lim">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Lisa-Angelique Lim</div>
+      <div class="speaker-role">Lecturer, Connected Intelligence Centre, University of Technology Sydney; ASCILITE</div>
+      <p class="speaker-bio">Lisa-Angelique Lim is a Lecturer with the Connected Intelligence Centre at the University of Technology Sydney. Lisa holds a PhD in Education specialising in learning analytics. Her research focuses on the human-centred co-design and implementation of learning analytics and AI tools that foster meaningful student experiences. Lisa works closely with educators in higher education with a mission to co-design learning analytics and AI interventions, recognising that learning analytics and AI are inherently socio-technical and must be embedded intentionally within institutional practice. Lisa has published her work in leading educational technology journals and the International Learning Analytics and Knowledge (LAK) conference.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="sam-sellar">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/sam-sellar.jpeg" alt="Sam Sellar">
@@ -140,6 +153,18 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Daniel Ebbert is a Research Fellow at Adelaide University's Centre for Change and Complexity in Learning. In his doctoral research, he explored the intersection of self-regulated learning and mind wandering during video-based learning, specifically examining how learners adapt their learning processes after recognising mind wandering episodes. This research aimed to develop evidence-based recommendations for effective responses to mind wandering during learning. Following his PhD, he has begun researching educational technology to support cognitive and metacognitive processes during learning.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#build-your-own-ai-research-assistant">Build Your Own AI Research Assistant →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="florence-gabriel">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/florence-gabriele.jpg" alt="Florence Gabriel">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Florence Gabriel</div>
+      <div class="speaker-role">Enterprise Fellow in Education &amp; Senior Research Fellow, C3L, Adelaide University</div>
+      <p class="speaker-bio">Dr Florence Gabriel is an Enterprise Fellow in education and a Senior Research Fellow at the Centre for Change and Complexity in Learning (C3L). She specialises in cognitive and socio-emotional aspects of learning and student well-being. Her research focuses on self-regulated learning, mathematics anxiety, and the use of technology to support learning. She has contributed to global education policy through her work with UNESCO and the OECD. She is also the co-Editor-in-Chief of Learning Letters.</p>
+      <button class="speaker-more" type="button">Read more +</button>
     </div>
   </div>
 

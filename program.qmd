@@ -159,26 +159,17 @@ resources:
     </div>
 
     <div class="prog-item type-plenary" id="three-speeds-of-ai-literacy">
-      <div class="prog-time">11:00 – 11:45</div>
+      <div class="prog-time">11:00 – 12:30</div>
       <div class="prog-body">
         <div class="prog-tag">Panel Discussion</div>
         <div class="prog-title">Three Speeds of AI Literacy: Global, National, Local</div>
         <div class="prog-desc">Join us to discuss how AI literacy is unfolding at three speeds at once — global research setting the agenda, national frameworks translating it into policy, and schools working out what it means day to day. This panel brings those layers into the same conversation: where they align, where they pull apart, and what it takes to close the gap.</div>
-        <div class="prog-speaker">With Mutlu Cukurova, Melanie Hughes, and more to follow...</div>
-      </div>
-    </div>
-
-    <div class="prog-item type-plenary">
-      <div class="prog-time">11:45 – 12:45</div>
-      <div class="prog-body">
-        <div class="prog-tag">Open Gallery</div>
-        <div class="prog-title">Revisit, Explore, and Go Deeper</div>
-        <div class="prog-desc">Yesterday's sessions don't disappear — they come back as a gallery. Each presenter sets up a brief station where you can get a rapid overview of what was covered, ask the questions you didn't get to ask, and make the connections you missed. Move freely, stay as long as you like at each stop.</div>
+        <div class="prog-speaker">With Mutlu Cukurova, Melanie Hughes, and Lisa-Angelique Lim</div>
       </div>
     </div>
 
     <div class="prog-item type-break">
-      <div class="prog-time">12:45 – 2:00</div>
+      <div class="prog-time">12:30 – 2:00</div>
       <div class="prog-body">
         <div class="prog-title">Lunch</div>
       </div>
