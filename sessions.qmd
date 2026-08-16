@@ -51,7 +51,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
   <div class="glance-track-block">
     <div class="glance-track-header ls">
       <span class="glance-track-icon">◈</span>
-      Learning Sciences &amp; Practice
+      Research Practice, Ethics &amp; Partnerships
     </div>
     <div class="glance-track-grid">
       <a class="glance-card ls" href="#the-state-of-qualitative-research-perspectives-from-cresi">
@@ -157,9 +157,9 @@ AI tools are changing how qualitative researchers work with data — but not alw
 [[Day 1]{.room-day}[{{< var rooms.coding_qualitative.day1 >}}]{.room-val}[Day 2]{.room-day}[{{< var rooms.coding_qualitative.day2 >}}]{.room-val}]{.session-rooms}
 :::
 
-## Learning Sciences & Practice Track {.track-header .ls}
+## Research Practice, Ethics & Partnerships Track {.track-header .ls}
 
-Sessions in this track are substantive and research-facing — grounded in learning theory, classroom practice, and the partnerships and ethics that shape real-world educational research.
+Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from qualitative inquiry and classroom prototypes to working with schools and government.
 
 ::: {.card-session .track-ls}
 ### The State of Qualitative Research: Perspectives from CRESI
