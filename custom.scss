@@ -615,8 +615,6 @@ section.track-header { counter-reset: sessioncard; }
   border: 1px dashed #D8CFC6;
   border-left: none;
 }
-/* Separates the Day 2 chip from the Day 1 chip without splitting either pair */
-.room-val + .room-day { margin-left: 0.6rem; }
 
 /* Track lead-in sits between the header rule and the first card */
 section.track-header > p {
