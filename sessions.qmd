@@ -90,7 +90,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       <a class="glance-card mm" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
         <span class="glance-card-num">01</span>
         <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
-        <div class="glance-card-presenter">Flora Jin</div>
+        <div class="glance-card-presenter">Flora Jin &amp; Linxuan Zhao</div>
         <div class="glance-card-teaser">Moving beyond self-report with temporal and sequential analysis.</div>
       </a>
       <a class="glance-card mm" href="#designing-your-research-instrument-from-construct-to-question">
@@ -203,7 +203,7 @@ Sessions in this track are hands-on and technical. They work through the methods
 
 ::: {.card-session .track-mm}
 ### Tracing Self-Regulation: Analysing Process Data in Learning Research
-[Flora Jin]{.session-presenter}
+[Flora Jin & Linxuan Zhao]{.session-presenter}
 
 Self-regulated learning is one of the most studied constructs in educational psychology — and one of the hardest to measure well. This session focuses on process data approaches: how to move beyond self-report, what temporal and sequential analyses can reveal, and what the data can and cannot tell you about how learners actually regulate.
 
