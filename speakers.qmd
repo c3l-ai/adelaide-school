@@ -117,6 +117,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="negin-mirriahi">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/negin-mirriahi.png" alt="Negin Mirriahi">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Negin Mirriahi</div>
+      <div class="speaker-role">Associate Professor &amp; Academic Lead (Digital Innovation), School of Education, Adelaide University; Co-Director, Higher Education Research Network; C3L</div>
+      <p class="speaker-bio">Negin Mirriahi is an Associate Professor and Academic Lead (Digital Innovation) in the School of Education at Adelaide University, Co-Director of the Higher Education Research Network, and a member of the Centre for Change and Complexity in Learning (C3L). She supervises PhD students investigating topics related to self-regulated learning, cognitive engagement, GenAI, and digital learning broadly. Negin's current research interests focus on learning analytics to inform pedagogical practice, GenAI use in higher education, digital learning, and staff development. Negin is also a reviewer for a number of educational technology journals and Co-Editor-in-Chief of the Learning Letters Journal.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#research-clinic">Research Clinic: Design Your Next Move →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="srecko-joksimovic">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/srecko-joksimovic.jpg" alt="Srecko Joksimovic">
