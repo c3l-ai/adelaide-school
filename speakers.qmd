@@ -65,6 +65,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="adam-biggs">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/adam-biggs.jpg" alt="Adam Biggs">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Adam Biggs</div>
+      <div class="speaker-role">Director of Learning Platforms and Analytics, St Michael's College</div>
+      <p class="speaker-bio">Adam Biggs is a member of the senior leadership team at St Michael's College, where as Director of Learning Platforms and Analytics he leads the College's learning, wellbeing, testing, and analytics platforms, and sets the strategic direction for AI adoption and sustainability. He works in partnership with leadership colleagues on academic integrity and ensures data from across the College, including SEQTA, Orah, and TrackOne Studio, is accessible and meaningful for staff. A classroom teacher since 2017, Adam currently teaches SACE Psychology, bringing both a teacher's lens and a strategic perspective to his work. He believes technology in schools should serve relationships, not replace them.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="sam-sellar">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/sam-sellar.jpeg" alt="Sam Sellar">
