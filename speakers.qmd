@@ -168,6 +168,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="abhinava-barthakur">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/abhinava-barthakur.jpg" alt="Abhinava Barthakur">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Abhinava Barthakur</div>
+      <div class="speaker-role">Senior Research Fellow, School of Education, Adelaide University</div>
+      <p class="speaker-bio">Abhinava Barthakur is a Senior Research Fellow in the School of Education at Adelaide University, affiliated with the Centre for Change and Complexity in Learning (C3L). He holds a PhD in Learning Analytics, and his research develops human-centred assessment models that generate diagnostic evidence of students' competency development in higher education and the workplace. He currently leads work on generative AI in assessment, using student–AI dialogue as an alternative source of evidence about student learning. He serves as Treasurer of the Society for Learning Analytics Research (SoLAR) and Associate Editor of the Australasian Journal of Educational Technology.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">What Are We Actually Measuring? →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="andrew-zamecnik">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/andrew-zamecnik.jpg" alt="Andrew Zamecnik">
