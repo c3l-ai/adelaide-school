@@ -164,7 +164,7 @@ resources:
         <div class="prog-tag">Panel Discussion</div>
         <div class="prog-title">Three Speeds of AI Literacy: Global, National, Local</div>
         <div class="prog-desc">Join us to discuss how AI literacy is unfolding at three speeds at once — global research setting the agenda, national frameworks translating it into policy, and schools working out what it means day to day. This panel brings those layers into the same conversation: where they align, where they pull apart, and what it takes to close the gap.</div>
-        <div class="prog-speaker">With Mutlu Cukurova, Melanie Hughes, and Lisa-Angelique Lim</div>
+        <div class="prog-speaker">With Mutlu Cukurova, Melanie Hughes, Lisa-Angelique Lim, and Adam Biggs</div>
       </div>
     </div>
 
@@ -175,12 +175,13 @@ resources:
       </div>
     </div>
 
-    <div class="prog-item type-plenary">
+    <div class="prog-item type-plenary" id="research-clinic">
       <div class="prog-time">2:00 – 3:30</div>
       <div class="prog-body">
         <div class="prog-tag">Research Clinic</div>
         <div class="prog-title">Design Your Next Move</div>
         <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
+        <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, and Ryan Baker</div>
       </div>
     </div>
 
