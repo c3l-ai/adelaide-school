@@ -54,11 +54,11 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       Research Practice, Ethics &amp; Partnerships
     </div>
     <div class="glance-track-grid">
-      <a class="glance-card ls" href="#the-state-of-qualitative-research-perspectives-from-cresi">
+      <a class="glance-card ls" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
         <span class="glance-card-num">01</span>
-        <div class="glance-card-title">The State of Qualitative Research: Perspectives from CRESI</div>
-        <div class="glance-card-presenter">CRESI</div>
-        <div class="glance-card-teaser">Current directions, methods, and debates in qualitative educational research.</div>
+        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
+        <div class="glance-card-presenter">Eric Roldan Roa</div>
+        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
       </a>
       <a class="glance-card ls" href="#a-working-prototype-for-real-time-surfacing-of-learning-dispositions-in-k-12-collaborative-learning">
         <span class="glance-card-num">02</span>
@@ -159,15 +159,15 @@ AI tools are changing how qualitative researchers work with data — but not alw
 
 ## Research Practice, Ethics & Partnerships Track {.track-header .ls}
 
-Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from qualitative inquiry and classroom prototypes to working with schools and government.
+Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from design-based research and classroom prototypes to working with schools and government.
 
 ::: {.card-session .track-ls}
-### The State of Qualitative Research: Perspectives from CRESI
-[CRESI]{.session-presenter}
+### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
+[Eric Roldan Roa]{.session-presenter}
 
-An overview of current directions in qualitative educational research, drawing on the work and expertise of CRESI researchers. What questions are driving the field? What methods are gaining traction? What debates are worth paying attention to?
+This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
 
-[[Day 1]{.room-day}[{{< var rooms.qualitative_cresi.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
 :::
 
 ::: {.card-session .track-ls}
