@@ -91,6 +91,32 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="eric-roldan-roa">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/eric-roldan-roa.jpg" alt="Eric Roldan Roa">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Eric Roldan Roa</div>
+      <div class="speaker-role">Doctoral Candidate, Leipzig University</div>
+      <p class="speaker-bio">Eric Roldan Roa is leading research at the Center for Scalable Analytics and Artificial Intelligence of Leipzig University. His research focuses on the interdisciplinary nature between music and mathematics for K-12 education. As a doctoral candidate, he has been using design-based research to develop Play My Math, an EdTech solution advocating for a mathematical musician curricula and mindset where students could learn, apply, and embodied mathematics by transforming them into musical outputs throughout their basic education.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">Design-Based Research in Action →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="kristina-raave">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/doris-kristina-raave.jpeg" alt="Kristina Raave">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Kristina Raave</div>
+      <div class="speaker-role">Researcher, Educational Sciences, Leipzig University</div>
+      <p class="speaker-bio">Dr Kristina Raave is a researcher in educational sciences at Leipzig University and a teacher by background. Her research focus lies in educational innovation and teacher training. She strives to actively bridge research and practice, drawing on her extensive international teaching experience.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#the-sandbox-student-designing-ai-simulators-that-push-back">The Sandbox Student →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="rebecca-marrone">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/rebecca-marrone.jpg" alt="Rebecca Marrone">
@@ -256,19 +282,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <p class="speaker-bio">Ryan Baker is Professor of Artificial Intelligence and Education at Adelaide University. He develops AI models that detect student engagement across diverse learning environments and co-developed an observational protocol used by more than 150 researchers in seven countries. His predictive analytics have benefited over two million students, and his MOOCs have reached more than 100,000 learners. Baker founded the International Educational Data Mining Society, serves as Associate Editor of the Journal of Educational Data Mining, and co-directs the JeepyTA learning platform. He also founded two master's programs in Learning Analytics. Baker has co-authored papers with more than 600 collaborators and has been cited over 40,000 times.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">Coding Qualitative Data with AI →</a>
-    </div>
-  </div>
-
-  <div class="speaker-card" id="eric-roldan-roa">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/eric-roldan-roa.jpg" alt="Eric Roldan Roa">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Eric Roldan Roa</div>
-      <div class="speaker-role">Doctoral Candidate, Leipzig University</div>
-      <p class="speaker-bio">Eric Roldan Roa is leading research at the Center for Scalable Analytics and Artificial Intelligence of Leipzig University. His research focuses on the interdisciplinary nature between music and mathematics for K-12 education. As a doctoral candidate, he has been using design-based research to develop Play My Math, an EdTech solution advocating for a mathematical musician curricula and mindset where students could learn, apply, and embodied mathematics by transforming them into musical outputs throughout their basic education.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">Design-Based Research in Action →</a>
     </div>
   </div>
 

@@ -54,11 +54,11 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       Research Practice, Ethics &amp; Partnerships
     </div>
     <div class="glance-track-grid">
-      <a class="glance-card ls" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
+      <a class="glance-card ls" href="#the-sandbox-student-designing-ai-simulators-that-push-back">
         <span class="glance-card-num">01</span>
-        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
-        <div class="glance-card-presenter">Eric Roldan Roa</div>
-        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
+        <div class="glance-card-title">The Sandbox Student: Designing AI Simulators That Push Back</div>
+        <div class="glance-card-presenter">Kristina Raave</div>
+        <div class="glance-card-teaser">Rehearsing de-escalation and adaptive teaching with AI student agents.</div>
       </a>
       <a class="glance-card ls" href="#a-working-prototype-for-real-time-surfacing-of-learning-dispositions-in-k-12-collaborative-learning">
         <span class="glance-card-num">02</span>
@@ -105,11 +105,11 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
         <div class="glance-card-teaser">Construct validity and the gap between what we measure and what we care about.</div>
       </a>
-      <a class="glance-card mm" href="#mixed-effects-modelling-for-education-researchers-a-practical-introduction">
+      <a class="glance-card mm" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
         <span class="glance-card-num">04</span>
-        <div class="glance-card-title">Mixed-Effects Modelling for Education Researchers: A Practical Introduction</div>
-        <div class="glance-card-presenter">TBC</div>
-        <div class="glance-card-teaser">Models built for nested educational data, worked through with real examples.</div>
+        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
+        <div class="glance-card-presenter">Eric Roldan Roa</div>
+        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
       </a>
     </div>
   </div>
@@ -159,15 +159,15 @@ AI tools are changing how qualitative researchers work with data — but not alw
 
 ## Research Practice, Ethics & Partnerships Track {.track-header .ls}
 
-Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from design-based research and classroom prototypes to working with schools and government.
+Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from classroom prototypes and AI teaching simulations to working with schools and government.
 
 ::: {.card-session .track-ls}
-### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
-[Eric Roldan Roa]{.session-presenter}
+### The Sandbox Student: Designing AI Simulators That Push Back
+[Kristina Raave]{.session-presenter}
 
-This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
+Can a simulated student prepare educators for the emotional realities of the classroom? This hands-on session introduces AI student agents as pedagogical simulators for practising de-escalation and adaptive instruction. You'll compare rule-based and LLM-driven agents, see how silent observer agents can give real-time feedback, and confront where productive friction ends and oversimplification begins.
 
-[[Day 1]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1]{.room-day}[{{< var rooms.sandbox_student.day1 >}}]{.room-val}]{.session-rooms}
 :::
 
 ::: {.card-session .track-ls}
@@ -229,10 +229,10 @@ Measurement in education is harder than it looks. This session takes seriously t
 :::
 
 ::: {.card-session .track-mm}
-### Mixed-Effects Modelling for Education Researchers: A Practical Introduction
-[TBC]{.session-presenter}
+### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
+[Eric Roldan Roa]{.session-presenter}
 
-Educational data is nested — students within classrooms, classrooms within schools, measurements within students. Mixed-effects models are built for exactly this structure. This session introduces the core ideas, works through applied examples using real data, and leaves you with enough to get started in your own analysis.
+This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
 
-[[Day 1]{.room-day}[{{< var rooms.mixed_effects.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
 :::
