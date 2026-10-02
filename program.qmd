@@ -175,13 +175,23 @@ resources:
       </div>
     </div>
 
-    <div class="prog-item type-plenary" id="research-clinic">
+    <div class="prog-item type-breakout" id="research-clinic">
       <div class="prog-time">2:00 – 3:30</div>
       <div class="prog-body">
-        <div class="prog-tag">Research Clinic</div>
+        <div class="prog-tag">Parallel Session — Research Clinic</div>
         <div class="prog-title">Design Your Next Move</div>
         <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
         <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, and Ryan Baker</div>
+      </div>
+    </div>
+
+    <div class="prog-item type-breakout" id="ai-policy-futures">
+      <div class="prog-time">2:00 – 3:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Parallel Session — Policy Workshop</div>
+        <div class="prog-title">AI Policy Through Futures Thinking</div>
+        <div class="prog-desc">AI policy written for today's tools is often out of date by the time it's approved. This workshop uses futures thinking to design policy for the futures it will actually have to govern — scanning for signals of change, building contrasting scenarios for AI in education, and working back from them to the principles and decisions that hold up across all of them. You'll leave with a set of policy moves stress-tested against more than one possible future.</div>
+        <div class="prog-speaker">With our Impact Hub Champions</div>
       </div>
     </div>
 
