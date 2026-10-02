@@ -91,6 +91,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="shane-dawson">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/shane-dawson.png" alt="Shane Dawson">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Shane Dawson</div>
+      <div class="speaker-role">Pro Vice Chancellor, College of Education, Behavioural and Social Sciences (EBSS); Professor of Learning Analytics, Adelaide University</div>
+      <p class="speaker-bio">Shane Dawson is Pro Vice Chancellor of the College of Education, Behavioural and Social Sciences (EBSS) and Professor of Learning Analytics at Adelaide University. His current research focuses on complex systems and academic leadership to support the adoption and application of AI in education. Shane is a founding executive member of the Society for Learning Analytics Research and a past program and conference chair of the International Learning Analytics and Knowledge conference. With colleagues, he has helped develop several open-source tools for teaching staff, including OnTask, OVAL, and SNAPP.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#leading-in-academia-building-partnerships-with-schools-and-government">Leading in Academia →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="eric-roldan-roa">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/eric-roldan-roa.jpg" alt="Eric Roldan Roa">
