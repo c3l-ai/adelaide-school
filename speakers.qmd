@@ -26,19 +26,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
-  <div class="speaker-card" id="mutlu-cukurova">
-    <div class="speaker-photo-wrap">
-      <img class="speaker-photo" src="images/speakers/mutlu-cukurova.jpg" alt="Mutlu Cukurova">
-    </div>
-    <div class="speaker-body">
-      <div class="speaker-name">Mutlu Cukurova</div>
-      <div class="speaker-role">Professor of Learning and Artificial Intelligence, UCL Knowledge Lab, University College London</div>
-      <p class="speaker-bio">Mutlu Cukurova is Professor of Learning and Artificial Intelligence at the UCL Knowledge Lab, University College London, where he directs the UCLAIT research group and is affiliated with the UCL Centre for Artificial Intelligence. His work spans human–AI complementarity, multimodal learning analytics, and AI in education, comprising some 220 publications and over 17K citations. Editor-in-Chief of the British Journal of Educational Technology, he advises UNESCO, the OECD, the World Bank, and the European Commission, and co-authored the UNESCO AI Competency Framework for Teachers.</p>
-      <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
-    </div>
-  </div>
-
   <div class="speaker-card" id="melanie-hughes">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/melanie-hughes.png" alt="Melanie Hughes">
