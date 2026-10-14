@@ -66,7 +66,7 @@ toc: false
   <div class="info-item info-item-venues">
     <span class="info-label">Where</span>
     <span class="info-val info-val-stack">
-      <span><em class="info-day">Day 1</em>Pridham Hall · City West</span>
+      <span><em class="info-day">Day 1</em>Opening: Pridham Hall · Workshops: AHMS · Futures Thinking: City West Hawke</span>
       <span><em class="info-day">Day 2</em>Brookman Hall · City East</span>
     </span>
   </div>

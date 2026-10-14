@@ -588,9 +588,7 @@ section.track-header { counter-reset: sessioncard; }
 .track-ai .session-presenter { color: #1448FF; }
 .track-ls .session-presenter { color: #836BFF; }
 .track-mm .session-presenter { color: #140F50; }
-/* Room chips - the room numbers themselves live in _variables.yml.
-   `.room-val` is dashed while the values are still TBC; switch it to solid
-   once real room numbers are in so it stops reading as pending. */
+/* Confirmed workshop room chips; allocations live in _variables.yml. */
 .card-session > p:last-of-type { margin-top: 1rem; }
 .room-day,
 .room-val {
@@ -611,7 +609,7 @@ section.track-header { counter-reset: sessioncard; }
 .room-val {
   color: #8C8C8C;
   background: #fff;
-  border: 1px dashed #D8CFC6;
+  border: 1px solid #D8CFC6;
   border-left: none;
 }
 
@@ -808,7 +806,7 @@ a:hover { color: #140F50; }
 .glance-track.ls { background: #836BFF; color: #fff; }
 .glance-track.mm { background: #140F50; color: #fff; }
 
-/* Sessions at a glance - stacked track blocks, each an auto-fill card grid */
+/* Sessions at a glance - four aligned workshop slots per track */
 .glance-tracks {
   display: flex;
   flex-direction: column;
@@ -847,7 +845,7 @@ a:hover { color: #140F50; }
 .glance-track-icon { font-size: 1rem; }
 .glance-track-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: 0.75rem;
 }
 .glance-card {
@@ -1648,4 +1646,36 @@ h2.track-header.mm::before { content: "▦"; color: #140F50; }
   .prog-time {
     font-size: 0.62rem;
   }
+}
+
+/* Timetable details echo the track colours and confirmed room chips. */
+.glance-track-header { flex-wrap: wrap; }
+.glance-track-room {
+  margin-left: auto;
+  padding: 0.3rem 0.5rem;
+  background: #fff;
+  color: #140F50;
+  font-size: 0.7rem;
+  letter-spacing: 0.06em;
+}
+.glance-card { padding: 0.9rem 1rem; }
+.glance-card-time {
+  font-family: 'Barlow Condensed', sans-serif;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: #140F50;
+  margin-bottom: 0.65rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid #D8CFC6;
+}
+.glance-schedule-note { color: #5a6472; font-size: 0.9rem; line-height: 1.7; }
+.room-val { color: #140F50; }
+.session-rooms { display: flex; flex-wrap: wrap; }
+@media (min-width: 576px) and (max-width: 991px) {
+  .glance-track-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 575px) {
+  .glance-track-grid { grid-template-columns: 1fr; }
+  .glance-track-header { position: static; }
+  .glance-track-room { margin-left: 0; }
 }

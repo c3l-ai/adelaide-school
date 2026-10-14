@@ -1,40 +1,26 @@
-# Room allocations for the workshop sessions.
-#
-# Each session runs once:
-#   day1 - Nov 12, Pridham Hall     (the workshop itself, Breakout I & II)
-#
-# Replace TBC with the room number as allocations come through. Nothing else
-# needs editing - sessions.qmd pulls these in via {{< var rooms.<key>.day1 >}}.
-# Once the numbers are real you may want to swap the dashed border on
-# `.room-val` in custom.scss to solid, so they stop reading as pending.
-
+# Day One workshop rooms. Each workshop runs once for 40 minutes.
 rooms:
-  # ── AI & Tools track ──
-  ai_assistant:          # Build Your Own AI Research Assistant
-    day1: TBC
-  deploy_agent:          # Deploy Your AI Agent: From Prototype to Practice
-    day1: TBC
-  evaluating_agents:     # Evaluating AI Agents: How Do You Know It's Working?
-    day1: TBC
-  coding_qualitative:    # Coding Qualitative Data with AI
-    day1: TBC
-
-  # ── Research Practice, Ethics & Partnerships track ──
-  sandbox_student:       # The Sandbox Student: Designing AI Simulators That Push Back
-    day1: TBC
-  dispositions_k12:      # A Working Prototype for Real-Time Surfacing of Learning Dispositions
-    day1: TBC
-  leading_academia:      # Leading in Academia: Building Partnerships
-    day1: TBC
-  data_ethics:           # Data Ethics in Education: Consent, Privacy
-    day1: TBC
-
-  # ── Methods, Measurement & Analytics track ──
-  self_regulation:       # Tracing Self-Regulation: Analysing Process Data
-    day1: TBC
-  research_instrument:   # Designing Your Research Instrument: From Construct to Question
-    day1: TBC
-  measuring_validity:    # What Are We Actually Measuring? Validity, Constructs
-    day1: TBC
-  dbr_play_my_math:      # Design-Based Research in Action: Play My Math
-    day1: TBC
+  ai_assistant:
+    day1: "AHMS · Room 8052 · Level 8"
+  evaluating_agents:
+    day1: "AHMS · Room 8052 · Level 8"
+  deploy_agent:
+    day1: "AHMS · Room 8052 · Level 8"
+  coding_qualitative:
+    day1: "AHMS · Room 8052 · Level 8"
+  data_ethics:
+    day1: "AHMS · Room 4050B · Level 4"
+  leading_academia:
+    day1: "AHMS · Room 4050B · Level 4"
+  sandbox_student:
+    day1: "AHMS · Room 4050B · Level 4"
+  dispositions_k12:
+    day1: "AHMS · Room 4050B · Level 4"
+  measuring_validity:
+    day1: "AHMS · Room 4050A · Level 4"
+  research_instrument:
+    day1: "AHMS · Room 4050A · Level 4"
+  self_regulation:
+    day1: "AHMS · Room 4050A · Level 4"
+  dbr_play_my_math:
+    day1: "AHMS · Room 4050A · Level 4"

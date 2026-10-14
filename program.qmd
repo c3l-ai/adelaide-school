@@ -7,7 +7,7 @@ resources:
 
 ```{=html}
 <div class="program-intro">
-  Two days. Mornings are shared — everyone in the same room. Afternoons open into parallel sessions where you choose your own path. Each day closes with something that makes the learning stick.
+  Two days of shared plenaries, practical workshops, and discussion. Day One offers four workshop time slots across three parallel tracks, with time to move between rooms. Each day closes with something that makes the learning stick.
 </div>
 
 <!-- DAY ONE -->
@@ -15,7 +15,7 @@ resources:
   <div class="prog-venue">
     <img class="prog-venue-img" src="images/venues/pridham.jpg" alt="Pridham Hall">
     <div class="prog-venue-inner">
-      <div class="prog-venue-eyebrow">Day One · Nov 12 · Venue</div>
+      <div class="prog-venue-eyebrow">Day One · Nov 12 · Opening venue</div>
       <div class="prog-venue-name">Pridham Hall</div>
     </div>
   </div>
@@ -64,7 +64,8 @@ resources:
       <div class="prog-body">
         <div class="prog-tag">Breakout — Part I</div>
         <div class="prog-title">Workshop Sessions</div>
-        <div class="prog-desc">Choose one of our parallel sessions and go deep. Each 90-minute block is designed to be hands-on, conversational, and directly applicable to your work. You will stay with the same session for Part II after lunch.</div>
+        <div class="prog-speaker">City West, Adelaide Health &amp; Medical Sciences (AHMS)</div>
+        <div class="prog-desc">Choose from three parallel tracks: AI &amp; Tools; Research Practice, Ethics &amp; Partnerships; and Methods, Measurement &amp; Analytics. Morning workshops run 11:00–11:40 and 11:50–12:30, with a 10-minute changeover. Stay with a track or switch between workshops.</div>
         <a class="prog-link" href="sessions.html">See all sessions →</a>
       </div>
     </div>
@@ -80,8 +81,9 @@ resources:
       <div class="prog-time">2:00 – 3:30</div>
       <div class="prog-body">
         <div class="prog-tag">Breakout — Part II</div>
-        <div class="prog-title">Workshop Sessions (continued)</div>
-        <div class="prog-desc">A second 90-minute block with the same session and speakers. Go deeper, work through your questions, and consolidate what you've covered in the morning.</div>
+        <div class="prog-title">Afternoon Workshop Sessions</div>
+        <div class="prog-speaker">City West, Adelaide Health &amp; Medical Sciences (AHMS)</div>
+        <div class="prog-desc">Two further 40-minute workshops in each track, running 2:00–2:40 and 2:50–3:30. Continue with your track or explore another room, with 10 minutes to change between workshops.</div>
         <a class="prog-link" href="sessions.html">See all sessions →</a>
       </div>
     </div>
@@ -96,9 +98,20 @@ resources:
     <div class="prog-item type-closing">
       <div class="prog-time">4:00 – 6:00</div>
       <div class="prog-body">
-        <div class="prog-tag">Showcase</div>
+        <div class="prog-tag">Parallel Session — Showcase</div>
         <div class="prog-title">Share Your Work, Meet Your Collaborators</div>
         <div class="prog-desc">Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.</div>
+      </div>
+    </div>
+
+    <div class="prog-item type-breakout" id="ai-policy-futures">
+      <div class="prog-time">4:00 – 5:30</div>
+      <div class="prog-body">
+        <div class="prog-tag">Parallel Session — Policy Workshop</div>
+        <div class="prog-title">AI Policy Through Futures Thinking</div>
+        <div class="prog-desc">AI policy written for today's tools is often out of date by the time it's approved. This workshop uses futures thinking to design policy for the futures it will actually have to govern — scanning for signals of change, building contrasting scenarios for AI in education, and working back from them to the principles and decisions that hold up across all of them. You'll leave with a set of policy moves stress-tested against more than one possible future.</div>
+        <div class="prog-speaker">With Maria Vieira and Rebecca Marrone</div>
+        <div class="prog-desc"><strong>Room:</strong> City West Hawke H6-09 Tutorial</div>
       </div>
     </div>
 
@@ -178,20 +191,10 @@ resources:
     <div class="prog-item type-breakout" id="research-clinic">
       <div class="prog-time">2:00 – 3:30</div>
       <div class="prog-body">
-        <div class="prog-tag">Parallel Session — Research Clinic</div>
+        <div class="prog-tag">Research Clinic</div>
         <div class="prog-title">Design Your Next Move</div>
         <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
         <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, and Ryan Baker</div>
-      </div>
-    </div>
-
-    <div class="prog-item type-breakout" id="ai-policy-futures">
-      <div class="prog-time">2:00 – 3:30</div>
-      <div class="prog-body">
-        <div class="prog-tag">Parallel Session — Policy Workshop</div>
-        <div class="prog-title">AI Policy Through Futures Thinking</div>
-        <div class="prog-desc">AI policy written for today's tools is often out of date by the time it's approved. This workshop uses futures thinking to design policy for the futures it will actually have to govern — scanning for signals of change, building contrasting scenarios for AI in education, and working back from them to the principles and decisions that hold up across all of them. You'll leave with a set of policy moves stress-tested against more than one possible future.</div>
-        <div class="prog-speaker">With our Impact Hub Champions</div>
       </div>
     </div>
 
