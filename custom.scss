@@ -511,6 +511,11 @@ h1, h2, h3, h4 {
   color: #836BFF;
   margin-right: 0.45rem;
 }
+.info-map-link {
+  color: #1448FF;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
 .info-sep { width: 1px; height: 36px; background: #ddd; }
 .register-btn {
   margin-left: auto;
@@ -998,6 +1003,21 @@ h2.track-header.mm::before { content: "▦"; color: #140F50; }
   .prog-venue-img { position: static; width: 100%; height: 140px; }
   .prog-venue-inner { width: 100%; min-height: 0; }
 }
+
+.prog-map-link {
+  align-self: flex-start;
+  margin-top: 0.6rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #fff;
+  border: 1px solid #C1B5FF;
+  padding: 0.3rem 0.7rem;
+  text-decoration: none;
+}
+.prog-map-link:hover { background: #C1B5FF; color: #140F50; }
 
 .prog-day-label {
   padding-top: 0.25rem;

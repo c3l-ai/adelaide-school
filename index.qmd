@@ -66,8 +66,8 @@ toc: false
   <div class="info-item info-item-venues">
     <span class="info-label">Where</span>
     <span class="info-val info-val-stack">
-      <span><em class="info-day">Day 1</em>Opening: Pridham Hall · Workshops: AHMS · Futures Thinking: City West Hawke</span>
-      <span><em class="info-day">Day 2</em>Brookman Hall · City East</span>
+      <span><em class="info-day">Day 1</em>Opening: Pridham Hall · Workshops: AHMS · Futures Thinking: City West Hawke · <a class="info-map-link" href="images/maps/CW-Map.jpg" download="Adelaide-School-Day1-City-West-Map.jpg">Map ↓</a></span>
+      <span><em class="info-day">Day 2</em>Brookman Hall · City East · <a class="info-map-link" href="images/maps/CE-Map.jpg" download="Adelaide-School-Day2-City-East-Map.jpg">Map ↓</a></span>
     </span>
   </div>
   <div class="info-sep"></div>

@@ -3,6 +3,7 @@ title: "Program"
 toc: false
 resources:
   - images/venues/
+  - images/maps/
 ---
 
 ```{=html}
@@ -17,6 +18,7 @@ resources:
     <div class="prog-venue-inner">
       <div class="prog-venue-eyebrow">Day One · Nov 12 · Opening venue</div>
       <div class="prog-venue-name">Pridham Hall</div>
+      <a class="prog-map-link" href="images/maps/CW-Map.jpg" download="Adelaide-School-Day1-City-West-Map.jpg">Download campus map ↓</a>
     </div>
   </div>
   <div class="prog-day-label">
@@ -137,6 +139,7 @@ resources:
     <div class="prog-venue-inner">
       <div class="prog-venue-eyebrow">Day Two · Nov 13 · Venue</div>
       <div class="prog-venue-name">Brookman Hall</div>
+      <a class="prog-map-link" href="images/maps/CE-Map.jpg" download="Adelaide-School-Day2-City-East-Map.jpg">Download campus map ↓</a>
     </div>
   </div>
   <div class="prog-day-label">
