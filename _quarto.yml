@@ -16,6 +16,8 @@ website:
         text: Sessions
       - href: speakers.qmd
         text: Speakers
+      - href: campus-maps.qmd
+        text: Campus Maps
       - href: about.qmd
         text: About
     right:

@@ -1019,6 +1019,39 @@ h2.track-header.mm::before { content: "▦"; color: #140F50; }
 }
 .prog-map-link:hover { background: #C1B5FF; color: #140F50; }
 
+/* Campus Maps page */
+.campus-map {
+  margin: 0 0 2rem;
+  background: #F8EFE0;
+  border-top: 4px solid #836BFF;
+  padding: 1rem;
+}
+.campus-map a { display: block; }
+.campus-map-img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1980 / 1578;
+  object-fit: contain;
+  background: #fff;
+  border: 1px solid #D8CFC6;
+  transition: box-shadow 0.15s;
+}
+.campus-map a:hover .campus-map-img { box-shadow: 0 6px 20px rgba(20, 15, 80, 0.15); }
+.campus-map figcaption {
+  margin-top: 0.6rem;
+  font-family: 'Barlow Condensed', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: #836BFF;
+}
+@media (max-width: 700px) {
+  .campus-map { padding: 0.5rem; }
+  .day-switcher { width: 100%; }
+  .day-btn { flex: 1; padding: 0.65rem 0.5rem; }
+}
+
 .prog-day-label {
   padding-top: 0.25rem;
   position: sticky;
