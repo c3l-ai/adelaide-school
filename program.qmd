@@ -96,11 +96,11 @@ resources:
     </div>
 
     <div class="prog-item type-closing">
-      <div class="prog-time">4:00 – 6:00</div>
+      <div class="prog-time">4:00 – 5:30</div>
       <div class="prog-body">
         <div class="prog-tag">Parallel Session — Showcase</div>
         <div class="prog-title">Share Your Work, Meet Your Collaborators</div>
-        <div class="prog-desc">Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience — followed by drinks and open networking.</div>
+        <div class="prog-desc">Bring a slide, a prototype, a finding, or just an idea you're wrestling with. This is your moment to share what you're working on with a generous, curious audience.</div>
       </div>
     </div>
 
@@ -116,14 +116,13 @@ resources:
     </div>
 
     <div class="prog-item type-social">
-      <div class="prog-time">From 6:30</div>
+      <div class="prog-time">From 5:45</div>
       <div class="prog-body">
         <div class="prog-tag">Social</div>
-        <div class="prog-title">Dinner &amp; Evening Social</div>
-        <div class="prog-desc">Day One doesn't end when the Showcase does. We'll carry on into the evening over dinner — no agenda, no slides, just the unhurried conversation that the rest of the program is too busy for.</div>
-        <div class="prog-desc">We'll hold a group reservation so there's a table waiting for us. Dinner and drinks are at your own expense — come along for the whole evening or just for a while.</div>
-        <div class="prog-desc">Let us know you're coming by recording your interest when you register on <a href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Humanitix</a>. Already registered and changed your mind — in either direction? Email <a href="mailto:C3L@adelaide.edu.au">C3L@adelaide.edu.au</a> and we'll adjust the booking.</div>
-        <div class="prog-tba">Venue &amp; details TBC</div>
+        <div class="prog-title">Drinks &amp; Snacks</div>
+        <div class="prog-desc">Day One doesn't end when the Showcase does. We'll carry on into the evening with drinks and snacks in an open space — no agenda, no slides.</div>
+        <div class="prog-desc">Let us know you're coming by recording your interest when you register on <a href="https://events.humanitix.com/the-adelaide-school-learning-sciences-data-and-ai" target="_blank" rel="noopener">Humanitix</a>.</div>
+        <div class="prog-tba">Venue TBA, subject to numbers and booking</div>
       </div>
     </div>
 
@@ -194,7 +193,7 @@ resources:
         <div class="prog-tag">Research Clinic</div>
         <div class="prog-title">Design Your Next Move</div>
         <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
-        <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, and Ryan Baker</div>
+        <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, Ryan Baker, and Andrew Zamecnik</div>
       </div>
     </div>
 
