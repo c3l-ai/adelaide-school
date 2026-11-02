@@ -314,12 +314,12 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
 
   <div class="speaker-card" id="linxuan-zhao">
     <div class="speaker-photo-wrap">
-      <div class="speaker-photo-placeholder">LZ</div>
+      <img class="speaker-photo" src="images/speakers/linxuan-zhao.png" alt="Linxuan Zhao">
     </div>
     <div class="speaker-body">
       <div class="speaker-name">Linxuan Zhao</div>
-      <div class="speaker-role"></div>
-      <p class="speaker-bio">Profile coming soon.</p>
+      <div class="speaker-role">Postdoctoral Research Fellow, C3L, Adelaide University</div>
+      <p class="speaker-bio">Dr. Linxuan Zhao is a Postdoctoral Research Fellow at the Centre for Change and Complexity in Learning, Adelaide University. His research interest lies in novel methods for capturing trace data during learning tasks in face-to-face and online learning settings. His research identifies patterns of learning actions from digital trace data to develop scaffolding. He also specializes in multimodal learning analytics, using sensor data to understand and support students’ learning activities in face-to-face settings. His work aims to translate trace data captured in either face-to-face or online learning settings into actionable analytics that provide meaningful feedback to learners and instructors, ultimately facilitating a productive learning experience.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">Coding Qualitative Data with AI →</a>
     </div>
