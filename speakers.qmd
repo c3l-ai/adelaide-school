@@ -217,6 +217,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Enterprise Fellow in Education &amp; Senior Research Fellow, C3L, Adelaide University</div>
       <p class="speaker-bio">Dr Florence Gabriel is an Enterprise Fellow in education and a Senior Research Fellow at the Centre for Change and Complexity in Learning (C3L). She specialises in cognitive and socio-emotional aspects of learning and student well-being. Her research focuses on self-regulated learning, mathematics anxiety, and the use of technology to support learning. She has contributed to global education policy through her work with UNESCO and the OECD. She is also the co-Editor-in-Chief of Learning Letters.</p>
       <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">What Are We Actually Measuring? →</a>
     </div>
   </div>
 
@@ -272,6 +273,19 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
     </div>
   </div>
 
+  <div class="speaker-card" id="maarten-de-laat">
+    <div class="speaker-photo-wrap">
+      <img class="speaker-photo" src="images/speakers/maarten-de-laat.png" alt="Maarten de Laat">
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Maarten de Laat</div>
+      <div class="speaker-role">Co-Director, Centre for Change and Complexity in Learning (C3L), Adelaide University</div>
+      <p class="speaker-bio">Maarten de Laat is co-director of the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His research focuses on learning and value creation in social networks. He uses practice-based research methodologies to study the impact technology, AI, learning analytics and social design has on the way social networks and communities work, learn and innovate. Maarten is co-chair of the international Networked Learning Conference and editor of the Springer book series on Research in Networked Learning.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#designing-your-research-instrument-from-construct-to-question">Designing Your Research Instrument →</a>
+    </div>
+  </div>
+
   <div class="speaker-card" id="ryan-baker">
     <div class="speaker-photo-wrap">
       <img class="speaker-photo" src="images/speakers/ryan-baker.jpg" alt="Ryan Baker">
@@ -280,6 +294,32 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-name">Ryan Baker</div>
       <div class="speaker-role">Professor of AI and Education, Adelaide University</div>
       <p class="speaker-bio">Ryan Baker is Professor of Artificial Intelligence and Education at Adelaide University. He develops AI models that detect student engagement across diverse learning environments and co-developed an observational protocol used by more than 150 researchers in seven countries. His predictive analytics have benefited over two million students, and his MOOCs have reached more than 100,000 learners. Baker founded the International Educational Data Mining Society, serves as Associate Editor of the Journal of Educational Data Mining, and co-directs the JeepyTA learning platform. He also founded two master's programs in Learning Analytics. Baker has co-authored papers with more than 600 collaborators and has been cited over 40,000 times.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">Coding Qualitative Data with AI →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="flora-jin">
+    <div class="speaker-photo-wrap">
+      <div class="speaker-photo-placeholder">FJ</div>
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Flora Jin</div>
+      <div class="speaker-role"></div>
+      <p class="speaker-bio">Profile coming soon.</p>
+      <button class="speaker-more" type="button">Read more +</button>
+      <a class="speaker-link" href="sessions.html#tracing-self-regulation-analysing-process-data-in-learning-research">Tracing Self-Regulation →</a>
+    </div>
+  </div>
+
+  <div class="speaker-card" id="linxuan-zhao">
+    <div class="speaker-photo-wrap">
+      <div class="speaker-photo-placeholder">LZ</div>
+    </div>
+    <div class="speaker-body">
+      <div class="speaker-name">Linxuan Zhao</div>
+      <div class="speaker-role"></div>
+      <p class="speaker-bio">Profile coming soon.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#coding-qualitative-data-with-ai-faster-smarter-still-rigorous">Coding Qualitative Data with AI →</a>
     </div>

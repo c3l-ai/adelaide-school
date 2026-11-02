@@ -97,7 +97,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
       <a class="glance-card mm" href="#designing-your-research-instrument-from-construct-to-question">
         <div class="glance-card-time">11:50–12:30</div>
         <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
-        <div class="glance-card-presenter">Phuong Pham</div>
+        <div class="glance-card-presenter">Phuong Pham &amp; Maarten de Laat</div>
         <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
       </a>
       <a class="glance-card mm" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
@@ -213,7 +213,7 @@ Self-regulated learning is one of the most studied constructs in educational psy
 
 ::: {.card-session .track-mm}
 ### Designing Your Research Instrument: From Construct to Question
-[Phuong Pham]{.session-presenter}
+[Phuong Pham & Maarten de Laat]{.session-presenter}
 
 A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
 
