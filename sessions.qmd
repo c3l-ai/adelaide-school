@@ -94,11 +94,11 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
         <div class="glance-card-teaser">Construct validity and the gap between what we measure and what we care about.</div>
       </a>
-      <a class="glance-card mm" href="#designing-your-research-instrument-from-construct-to-question">
+      <a class="glance-card mm" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
         <div class="glance-card-time">11:50–12:30</div>
-        <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
-        <div class="glance-card-presenter">Phuong Pham &amp; Maarten de Laat</div>
-        <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
+        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
+        <div class="glance-card-presenter">Eric Roldan Roa</div>
+        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
       </a>
       <a class="glance-card mm" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
         <div class="glance-card-time">2:00–2:40</div>
@@ -106,11 +106,11 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Flora Jin &amp; Linxuan Zhao</div>
         <div class="glance-card-teaser">Moving beyond self-report with temporal and sequential analysis.</div>
       </a>
-      <a class="glance-card mm" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
+      <a class="glance-card mm" href="#designing-your-research-instrument-from-construct-to-question">
         <div class="glance-card-time">2:50–3:30</div>
-        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
-        <div class="glance-card-presenter">Eric Roldan Roa</div>
-        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
+        <div class="glance-card-title">Designing Your Research Instrument: From Construct to Question</div>
+        <div class="glance-card-presenter">Phuong Pham &amp; Maarten de Laat</div>
+        <div class="glance-card-teaser">From a theoretical construct to items that actually capture it.</div>
       </a>
     </div>
   </div>
@@ -212,12 +212,12 @@ Self-regulated learning is one of the most studied constructs in educational psy
 :::
 
 ::: {.card-session .track-mm}
-### Designing Your Research Instrument: From Construct to Question
-[Phuong Pham & Maarten de Laat]{.session-presenter}
+### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
+[Eric Roldan Roa]{.session-presenter}
 
-A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
+This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
 
-[[Day 1 · 11:50–12:30]{.room-day}[{{< var rooms.research_instrument.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1 · 11:50–12:30]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
 :::
 
 ::: {.card-session .track-mm}
@@ -230,10 +230,10 @@ Measurement in education is harder than it looks. This session takes seriously t
 :::
 
 ::: {.card-session .track-mm}
-### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
-[Eric Roldan Roa]{.session-presenter}
+### Designing Your Research Instrument: From Construct to Question
+[Phuong Pham & Maarten de Laat]{.session-presenter}
 
-This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
+A research instrument is only as good as the thinking behind it. This session walks through the process of moving from a theoretical construct to a set of items or measures that actually capture what you intend — with attention to common failure points and how to avoid them.
 
-[[Day 1 · 2:50–3:30]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1 · 2:50–3:30]{.room-day}[{{< var rooms.research_instrument.day1 >}}]{.room-val}]{.session-rooms}
 :::

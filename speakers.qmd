@@ -301,12 +301,12 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
 
   <div class="speaker-card" id="flora-jin">
     <div class="speaker-photo-wrap">
-      <div class="speaker-photo-placeholder">FJ</div>
+      <img class="speaker-photo" src="images/speakers/flora-jin.png" alt="Flora Jin">
     </div>
     <div class="speaker-body">
       <div class="speaker-name">Flora Jin</div>
-      <div class="speaker-role"></div>
-      <p class="speaker-bio">Profile coming soon.</p>
+      <div class="speaker-role">Postdoctoral Research Fellow, College of Education, Behavioural and Social Sciences (EBSS); C3L, Adelaide University</div>
+      <p class="speaker-bio">Dr Flora Ji-Yoon Jin is a Postdoctoral Research Fellow in the College of Education, Behavioural and Social Sciences (EBSS) and the Centre for Change and Complexity in Learning (C3L) at Adelaide University. Her research sits at the intersection of learning analytics, feedback literacy, self-regulated learning, and AI-enhanced education, with a particular focus on understanding and supporting how students engage with feedback. Her research integrates behavioural trace data with qualitative and quantitative methods, including large-scale surveys, interviews, participatory design, and advanced learning analytics techniques. Her work examines both student and educator experiences of feedback, with the broader aim of developing evidence-based learning analytics and AI approaches that can support students’ feedback engagement and self-regulated learning.</p>
       <button class="speaker-more" type="button">Read more +</button>
       <a class="speaker-link" href="sessions.html#tracing-self-regulation-analysing-process-data-in-learning-research">Tracing Self-Regulation →</a>
     </div>
