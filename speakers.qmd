@@ -35,7 +35,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Curriculum Specialist, Technologies, Australian Curriculum, Assessment and Reporting Authority (ACARA)</div>
       <p class="speaker-bio">Melanie Hughes is Curriculum Specialist, Technologies at the Australian Curriculum, Assessment and Reporting Authority (ACARA), where she leads the Australian Curriculum: Technologies — spanning Design and Technologies, Digital Technologies, and the Digital Literacy capability. An experienced Primary and Secondary teacher, she has worked across cross-sectoral technologies projects, served as a board member of ICTENSW, and was Senior Project Officer for ACARA's Digital Technologies in Focus project. Her career spans classroom teaching, curriculum leadership, and technologies integration, including roles as Education Consultant: Technologies and STEM with AISNSW and Senior Education Specialist: Technologies and STEM at the Australian Academy of Science.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: AI in Education: Research, Policy and Practice →</a>
     </div>
   </div>
 
@@ -48,7 +48,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Lecturer, Connected Intelligence Centre, University of Technology Sydney; ASCILITE</div>
       <p class="speaker-bio">Lisa-Angelique Lim is a Lecturer with the Connected Intelligence Centre at the University of Technology Sydney. Lisa holds a PhD in Education specialising in learning analytics. Her research focuses on the human-centred co-design and implementation of learning analytics and AI tools that foster meaningful student experiences. Lisa works closely with educators in higher education with a mission to co-design learning analytics and AI interventions, recognising that learning analytics and AI are inherently socio-technical and must be embedded intentionally within institutional practice. Lisa has published her work in leading educational technology journals and the International Learning Analytics and Knowledge (LAK) conference.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: AI in Education: Research, Policy and Practice →</a>
     </div>
   </div>
 
@@ -61,7 +61,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Director of Learning Platforms and Analytics, St Michael's College</div>
       <p class="speaker-bio">Adam Biggs is a member of the senior leadership team at St Michael's College, where as Director of Learning Platforms and Analytics he leads the College's learning, wellbeing, testing, and analytics platforms, and sets the strategic direction for AI adoption and sustainability. He works in partnership with leadership colleagues on academic integrity and ensures data from across the College, including SEQTA, Orah, and TrackOne Studio, is accessible and meaningful for staff. A classroom teacher since 2017, Adam currently teaches SACE Psychology, bringing both a teacher's lens and a strategic perspective to his work. He believes technology in schools should serve relationships, not replace them.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: Three Speeds of AI Literacy →</a>
+      <a class="speaker-link" href="program.html#three-speeds-of-ai-literacy">Panel: AI in Education: Research, Policy and Practice →</a>
     </div>
   </div>
 
