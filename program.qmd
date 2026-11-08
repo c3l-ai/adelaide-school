@@ -203,7 +203,7 @@ resources:
         <div class="prog-title">Design Your Next Move</div>
         <div class="prog-desc">Bring a half-formed idea — a grant concept, a research design, a school partnership you're trying to shape, or a tool you want to build. Small groups rotate through facilitators who offer structured feedback and help you leave with something concrete: a clearer question, a sharper pitch, or a first draft of a plan.</div>
         <div class="prog-desc">Your facilitators include presenters from Day One's workshops, so if you missed one of their sessions, this is your chance to chat with them about it.</div>
-        <div class="prog-speaker">Facilitated by Vitomir Kovanovic, Negin Mirriahi, Ryan Baker, and Andrew Zamecnik</div>
+        <div class="prog-speaker">Workshop Facilitators from Day 1</div>
       </div>
     </div>
 
