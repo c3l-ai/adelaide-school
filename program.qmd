@@ -46,7 +46,7 @@ resources:
       <div class="prog-time">9:30 – 10:30</div>
       <div class="prog-body">
         <div class="prog-tag">Plenary Talk</div>
-        <div class="prog-title">Control, Value, and Emotion: What AI Is Doing to the Learner's Experience</div>
+        <div class="prog-title">Achievement Emotions: State of the Art, Challenges, and New Directions</div>
         <div class="prog-desc">AI is quietly reshaping how learners experience control, value, and emotion in their work. Reinhard Pekrun puts control-value theory to work as a measurable lens on AI-mediated learning, with a sharp focus on the methods — how to capture achievement emotions and design studies that reveal whether AI supports or undermines them.</div>
         <div class="prog-speaker">With Reinhard Pekrun</div>
       </div>
