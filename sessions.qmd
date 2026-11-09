@@ -73,9 +73,9 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Kristina Raave</div>
         <div class="glance-card-teaser">Rehearsing de-escalation and adaptive teaching with AI student agents.</div>
       </a>
-      <a class="glance-card ls" href="#a-working-prototype-for-real-time-surfacing-of-learner-capabilities-in-k-12-collaborative-learning">
+      <a class="glance-card ls" href="#a-working-prototype-for-real-time-detection-of-capabilities-in-k-12-collaborative-learning">
         <div class="glance-card-time">2:50–3:30</div>
-        <div class="glance-card-title">A Working Prototype for Real-Time Surfacing of Learner Capabilities in K-12 Collaborative Learning</div>
+        <div class="glance-card-title">A working prototype for real-time detection of capabilities in K-12 collaborative learning</div>
         <div class="glance-card-presenter">Andrew Zamecnik &amp; Jarrod Johnson</div>
         <div class="glance-card-teaser">Putting AI agents into a K-12 classroom, live, in real time.</div>
       </a>
@@ -172,7 +172,7 @@ Can a simulated student prepare educators for the emotional realities of the cla
 :::
 
 ::: {.card-session .track-ls}
-### A Working Prototype for Real-Time Surfacing of Learner Capabilities in K-12 Collaborative Learning
+### A working prototype for real-time detection of capabilities in K-12 collaborative learning
 [Andrew Zamecnik & Jarrod Johnson]{.session-presenter}
 
 A working prototype that puts AI agents into a K-12 classroom in real time — aligned to curriculum frameworks, surfacing learner capabilities as they emerge in discourse. This session covers what it takes to make it work: the infrastructure, the tradeoffs, and the adoption challenges of bringing a prototype into a real school.

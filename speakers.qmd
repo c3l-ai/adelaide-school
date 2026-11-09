@@ -243,7 +243,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Early Career Researcher, C3L, Adelaide University</div>
       <p class="speaker-bio">Dr Andrew Zamecnik is an early career researcher at Adelaide University's Centre for Change and Complexity in Learning (C3L). With a PhD in Learning Analytics, his research explores learners' teaming behaviours—such as team cohesion and psychological safety—in collaborative learning contexts. He champions real-time, AI-driven analytics that give instructors dynamic feedback and foster personal and social capabilities. Andrew has partnered with prominent research centres, international academics, and industry leaders, including a Gates Foundation–supported project credentialising lifelong learner achievements. His work spans K-12, higher education, and work-integrated learning, advancing innovative assessment for team behaviour development.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#a-working-prototype-for-real-time-surfacing-of-learner-capabilities-in-k-12-collaborative-learning">Real-Time Learner Capabilities in K-12 →</a>
+      <a class="speaker-link" href="sessions.html#a-working-prototype-for-real-time-detection-of-capabilities-in-k-12-collaborative-learning">A working prototype for real-time detection of capabilities in K-12 collaborative learning →</a>
     </div>
   </div>
 
@@ -256,7 +256,7 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Science and Technologies Educator, Pulteney Grammar School; Adjunct Research Fellow, C3L, Adelaide University</div>
       <p class="speaker-bio">Jarrod Johnson is a Science and Technologies educator at Pulteney Grammar School and an Adjunct Research Fellow with the Centre for Change and Complexity in Learning (C3L) at Adelaide University. His work focuses on developing practical AI tools and pedagogical approaches that support teaching, learning, and academic integrity in the classroom. Through his collaboration with C3L, Jarrod helps bridge educational research and classroom practice by trialling innovative AI applications, collecting real-time classroom data, and evaluating their impact on student learning. He is passionate about helping educators adopt AI in ways that are ethical, practical, and evidence-informed.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#a-working-prototype-for-real-time-surfacing-of-learner-capabilities-in-k-12-collaborative-learning">Real-Time Learner Capabilities in K-12 →</a>
+      <a class="speaker-link" href="sessions.html#a-working-prototype-for-real-time-detection-of-capabilities-in-k-12-collaborative-learning">A working prototype for real-time detection of capabilities in K-12 collaborative learning →</a>
     </div>
   </div>
 
