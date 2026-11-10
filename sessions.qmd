@@ -85,7 +85,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
   <div class="glance-track-block">
     <div class="glance-track-header mm">
       <span class="glance-track-icon">▦</span>
-      Methods, Measurement &amp; Analytics<span class="glance-track-room">Room 4050A · Level 4</span>
+      Methods, Measurement &amp; Analytics<span class="glance-track-room">Room 5052 · Level 5</span>
     </div>
     <div class="glance-track-grid">
       <a class="glance-card mm" href="#what-are-we-actually-measuring-validity-constructs-and-the-hard-problem-of-learning-data">
