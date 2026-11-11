@@ -83,7 +83,7 @@ resources:
         <div class="prog-tag">Breakout — Part II</div>
         <div class="prog-title">Afternoon Workshop Sessions</div>
         <div class="prog-speaker">City West, Adelaide Health &amp; Medical Sciences (AHMS)</div>
-        <div class="prog-desc">Two further 40-minute workshops in each track, running 2:00–2:40 and 2:50–3:30. Continue with your track or explore another room, with 10 minutes to change between workshops.</div>
+        <div class="prog-desc">Afternoon workshops run 2:00–2:40 across all three tracks, with further workshops at 2:50–3:30 in AI &amp; Tools and Methods, Measurement &amp; Analytics. Continue with your track or explore another room, with 10 minutes to change between workshops.</div>
         <a class="prog-link" href="sessions.html">See all sessions →</a>
       </div>
     </div>

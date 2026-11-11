@@ -2,7 +2,7 @@
 title: "Sessions"
 ---
 
-Day One offers twelve 40-minute workshops across three parallel tracks. Choose a track for the day or move between tracks at the breaks. Each workshop combines practical work, short presentations, and discussion.
+Day One offers ten 40-minute workshops across three parallel tracks. Choose a track for the day or move between tracks at the breaks. Each workshop combines practical work, short presentations, and discussion.
 
 ::: {.callout-note}
 The program is **to be confirmed**. Sessions, presenters, and scheduling are subject to change.
@@ -13,7 +13,7 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
 ## Sessions at a glance
 
 ```{=html}
-<p class="glance-schedule-note">Thursday · 12 November · Adelaide Health &amp; Medical Sciences (AHMS)<br>Four workshops per track · 10-minute changeovers · Lunch 12:30–2:00</p>
+<p class="glance-schedule-note">Thursday · 12 November · Adelaide Health &amp; Medical Sciences (AHMS)<br>Four workshop time slots · 10-minute changeovers · Lunch 12:30–2:00</p>
 <div class="glance-tracks">
 
   <div class="glance-track-block">
@@ -67,18 +67,16 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Maria Vieira, Rebecca Marrone &amp; Shane Dawson</div>
         <div class="glance-card-teaser">What it takes to build and sustain partnerships beyond the university.</div>
       </a>
-      <a class="glance-card ls" href="#the-sandbox-student-designing-ai-simulators-that-push-back">
-        <div class="glance-card-time">2:00–2:40</div>
-        <div class="glance-card-title">The Sandbox Student: Designing AI Simulators That Push Back</div>
-        <div class="glance-card-presenter">Kristina Raave</div>
-        <div class="glance-card-teaser">Rehearsing de-escalation and adaptive teaching with AI student agents.</div>
-      </a>
       <a class="glance-card ls" href="#a-working-prototype-for-real-time-detection-of-capabilities-in-k-12-collaborative-learning">
-        <div class="glance-card-time">2:50–3:30</div>
+        <div class="glance-card-time">2:00–2:40</div>
         <div class="glance-card-title">A working prototype for real-time detection of capabilities in K-12 collaborative learning</div>
         <div class="glance-card-presenter">Andrew Zamecnik &amp; Jarrod Johnson</div>
         <div class="glance-card-teaser">Putting AI agents into a K-12 classroom, live, in real time.</div>
       </a>
+      <div class="glance-card ls">
+        <div class="glance-card-time">2:50–3:30</div>
+        <div class="glance-card-title">No session scheduled</div>
+      </div>
     </div>
   </div>
 
@@ -94,12 +92,10 @@ The program is **to be confirmed**. Sessions, presenters, and scheduling are sub
         <div class="glance-card-presenter">Florence Gabriel &amp; Abhinava Barthakur</div>
         <div class="glance-card-teaser">Construct validity and the gap between what we measure and what we care about.</div>
       </a>
-      <a class="glance-card mm" href="#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">
+      <div class="glance-card mm">
         <div class="glance-card-time">11:50–12:30</div>
-        <div class="glance-card-title">Design-Based Research in Action: Lessons Learned from the Play My Math Use Case</div>
-        <div class="glance-card-presenter">Eric Roldan Roa</div>
-        <div class="glance-card-teaser">Six DBR phases, three countries, and one EdTech tool combining music and maths.</div>
-      </a>
+        <div class="glance-card-title">No session scheduled</div>
+      </div>
       <a class="glance-card mm" href="#tracing-self-regulation-analysing-process-data-in-learning-research">
         <div class="glance-card-time">2:00–2:40</div>
         <div class="glance-card-title">Tracing Self-Regulation: Analysing Process Data in Learning Research</div>
@@ -160,16 +156,7 @@ AI tools are changing how qualitative researchers work with data — but not alw
 
 ## Research Practice, Ethics & Partnerships Track {.track-header .ls}
 
-Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from classroom prototypes and AI teaching simulations to working with schools and government.
-
-::: {.card-session .track-ls}
-### The Sandbox Student: Designing AI Simulators That Push Back
-[Kristina Raave]{.session-presenter}
-
-Can a simulated student prepare educators for the emotional realities of the classroom? This hands-on session introduces AI student agents as pedagogical simulators for practising de-escalation and adaptive instruction. You'll compare rule-based and LLM-driven agents, see how silent observer agents can give real-time feedback, and confront where productive friction ends and oversimplification begins.
-
-[[Day 1 · 2:00–2:40]{.room-day}[{{< var rooms.sandbox_student.day1 >}}]{.room-val}]{.session-rooms}
-:::
+Sessions in this track are research-facing and applied — the practice, ethics, and partnerships that surround real-world educational research, from classroom prototypes to working with schools and government.
 
 ::: {.card-session .track-ls}
 ### A working prototype for real-time detection of capabilities in K-12 collaborative learning
@@ -177,7 +164,7 @@ Can a simulated student prepare educators for the emotional realities of the cla
 
 A working prototype that puts AI agents into a K-12 classroom in real time — aligned to curriculum frameworks, surfacing learner capabilities as they emerge in discourse. This session covers what it takes to make it work: the infrastructure, the tradeoffs, and the adoption challenges of bringing a prototype into a real school.
 
-[[Day 1 · 2:50–3:30]{.room-day}[{{< var rooms.dispositions_k12.day1 >}}]{.room-val}]{.session-rooms}
+[[Day 1 · 2:00–2:40]{.room-day}[{{< var rooms.dispositions_k12.day1 >}}]{.room-val}]{.session-rooms}
 :::
 
 ::: {.card-session .track-ls}
@@ -209,15 +196,6 @@ Sessions in this track are hands-on and technical. They work through the methods
 Self-regulated learning is one of the most studied constructs in educational psychology — and one of the hardest to measure well. This session focuses on process data approaches: how to move beyond self-report, what temporal and sequential analyses can reveal, and what the data can and cannot tell you about how learners actually regulate.
 
 [[Day 1 · 2:00–2:40]{.room-day}[{{< var rooms.self_regulation.day1 >}}]{.room-val}]{.session-rooms}
-:::
-
-::: {.card-session .track-mm}
-### Design-Based Research in Action: Lessons Learned from the Play My Math Use Case
-[Eric Roldan Roa]{.session-presenter}
-
-This workshop/talk targets participants interested in or already applying a Design-Based Research methodology in their work. The session offers insights into the theoretical, practical nuances, and challenges encountered when engaging in the six DBR phases (i.e., Focus, Understand, Design, Conceive, Build, and Test) and conducting this type of research in multicultural contexts. The participants will experience, learn, and discuss from the journey of an EdTech tool combining music and mathematics called Play My Math, which has completed a total of three successful DBR cycles in Mexico, the UK, and Brazil. As such, the participants can profit from the PMM experience and have a reference for their own research.
-
-[[Day 1 · 11:50–12:30]{.room-day}[{{< var rooms.dbr_play_my_math.day1 >}}]{.room-val}]{.session-rooms}
 :::
 
 ::: {.card-session .track-mm}

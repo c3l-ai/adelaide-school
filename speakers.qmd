@@ -100,7 +100,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Doctoral Candidate, Leipzig University</div>
       <p class="speaker-bio">Eric Roldan Roa is leading research at the Center for Scalable Analytics and Artificial Intelligence of Leipzig University. His research focuses on the interdisciplinary nature between music and mathematics for K-12 education. As a doctoral candidate, he has been using design-based research to develop Play My Math, an EdTech solution advocating for a mathematical musician curricula and mindset where students could learn, apply, and embodied mathematics by transforming them into musical outputs throughout their basic education.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#design-based-research-in-action-lessons-learned-from-the-play-my-math-use-case">Design-Based Research in Action →</a>
     </div>
   </div>
 
@@ -113,7 +112,6 @@ The program is **to be confirmed**. Speakers and sessions are subject to change.
       <div class="speaker-role">Researcher, Educational Sciences, Leipzig University</div>
       <p class="speaker-bio">Dr Kristina Raave is a researcher in educational sciences at Leipzig University and a teacher by background. Her research focus lies in educational innovation and teacher training. She strives to actively bridge research and practice, drawing on her extensive international teaching experience.</p>
       <button class="speaker-more" type="button">Read more +</button>
-      <a class="speaker-link" href="sessions.html#the-sandbox-student-designing-ai-simulators-that-push-back">The Sandbox Student →</a>
     </div>
   </div>
 
